@@ -1,0 +1,4 @@
+baseURL = 'https://blog.mags.nu/'
+languageCode = 'en-us'
+title = 'Magnus Blog'
+theme = "hugo-bearblog"
