@@ -1,4 +1,21 @@
 baseURL = 'https://blog.mags.nu/'
-languageCode = 'en-us'
-title = 'Magnus Blog'
-theme = "hugo-bearblog"
+theme = "hugo-bearcub"
+themeStyle = "herman"
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+
+[params]
+copyright = '© 2024 Magnus Sletfjerding'
+  [params.author]
+    email = 'contact-blog@mail.mags.nu'
+    name = 'Mags'
+
+[languages]
+  [languages.en]
+    title = 'Magnus Berg Sletfjerding'
+    languageName = "en-US 🇺🇸"
+    languageCode = 'en-us'
+    contentDir = "content"
+    [languages.en.params]

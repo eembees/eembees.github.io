@@ -1,7 +1,7 @@
 +++
 title = 'Children Today'
 date = 2024-09-26T12:10:37+02:00
-draft = false
+draft = true
 +++
 
 The children now love luxury; they have bad manners, contempt for authority; they show disrespect for elders and love chatter in place of exercise. 

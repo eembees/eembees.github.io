@@ -9,4 +9,4 @@ I'm Magnus, from Trondheim, Norway.
 
 I hold a M.Sc. in Nanoscience from the University of Copenhagen. 
 
-
+See my cv here [link](./resume-long.pdf).
