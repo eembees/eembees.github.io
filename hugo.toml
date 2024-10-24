@@ -1,12 +1,12 @@
-baseURL = 'https://blog.mags.nu/'
+baseURL = 'https://mags.nu/'
 theme = "hugo-bearcub"
-themeStyle = "herman"
 
 [outputs]
   home = ['html', 'rss']
   section = ['html', 'rss']
 
 [params]
+themeStyle = "herman"
 copyright = '© 2024 Magnus Sletfjerding'
   [params.author]
     email = 'contact-blog@mail.mags.nu'

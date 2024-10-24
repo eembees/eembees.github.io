@@ -2,6 +2,7 @@
 title = 'One Step Behind'
 date = 2024-10-23T15:48:20+02:00
 draft = false
+tags = ['science']
 +++
 
 In 1884, Gregor Mendel, one of the fathers of modern genetics, died without recognition for his work.
