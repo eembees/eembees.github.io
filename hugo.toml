@@ -6,7 +6,7 @@ theme = "hugo-bearcub"
   section = ['html', 'rss']
 
 [params]
-themeStyle = "herman"
+themeStyle = "light"
 copyright = '© 2024 Magnus Sletfjerding'
   [params.author]
     email = 'contact-blog@mail.mags.nu'
