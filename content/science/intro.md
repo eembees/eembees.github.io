@@ -2,7 +2,6 @@
 title = 'Paper Reading'
 date = 2024-10-24T11:45:14+02:00
 draft = false
-menu = 'main'
 +++
 ## Science
 This page is my page for exploration of science. 
