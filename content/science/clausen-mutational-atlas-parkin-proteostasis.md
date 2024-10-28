@@ -99,6 +99,15 @@ Comparing this to the weighted contact number (a number for how exposed a part o
 This is interesting, since we _still_ don't quite understand the structure and function of Parkin proteins when they're activated.
 
 
+### Variant abundance correlates with stability and conservation
+
+For investigating the link between abundance, stability and conservation, the authors calculate the theoretical folding stability of different mutants of Parkin and compare those to the cellular abundance scores. 
+They find the following:
+1. Most of the low-abundance variants have low stabilities, suggesting that they can't fold properly, and are therefore red-carded.
+2. Some variants have low abundance but high stabilities. These variants all have mutations on the parts of the protein that point outwards, which means they _probably form a degron_, which means they're quickly red-carded.
+    - Out of these variants, some are known to be pathogenic, i.e. have been documented to cause disease in humans. 
+    - This suggests that disease causing variants are so due to a loss in _function_, not _structure_ of the protein.  
+
 ## The questions I'm left with after reading this article?
 
 1. The authors propose that:
