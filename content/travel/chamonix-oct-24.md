@@ -1,6 +1,6 @@
 +++
 title = 'Chamonix October 24'
-date = 2024-10-27T16:36:00+01:00
+date = 2024-10-24T16:36:00+01:00
 draft = false
 +++
 
@@ -19,7 +19,7 @@ _Tirsdag._ Idag våkner jeg med en uhorvelig hodepine, og en aldeles fryktelig f
 Det er med andre ord intet annet å gjøre enn å legge seg til rette i sofaenheten i Sondres van og la humla suse, mens jeg venter på min kur med en lur.
 Etter en dags opphold på Autobahn kjører vi inn i Sveits, men for å holde spenningsnivået oppe, velger vi å legge oss til å sove på den mest lugubre rasteplassen vi kan finne. Man skal nødig leve for luksøriøst. 
 
-![20 timers kjøring er fort glemt med en slik utsikt.](/img/chamonix-oct-24-wed-view.jpg)
+![20 timers kjøring er fort glemt med en slik pinakkel.](/img/chamonix-oct-24-wed-view.jpg)
 _Onsdag._ Jeg våkner etter nok en natt med feberdrømmer, og det blir raskt etablert enighet om at miasmaen vil inntreffe oss alle hvis vi ikke kommer vekk fra denne gudsforlatte rasteplassen og opp i den helbredende fjellufta.
 Sondre får æren av å svinge den magiske bussen opp mot Vallorcine, og får fryden av første glimt av Mont Blanc når vi kjører inn i denne legendariske dalen. 
 
@@ -28,7 +28,7 @@ Vi blir velsignet med klar sikt når vi når innsteget, og klatringen foregår d
 
 Glade og fornøyde triller blomsterbussen ned i Chamonix by, hvor jeg blir sjokkert over hvor tomt det er. Etter et større raid av et fransk supermarked skaper vi et større festmåltid og sovner stille inn i blomster B&Ben.
 
-![Utsikt som innsiden av en pingpongball. Are Kalvø ville vært fra seg av skadefryd.](/img/chamonix-oct-24-thur-view.png)
+![Utsikt som innsiden av en pingpongball. Are Kalvø ville vært fra seg av skadefryd.](/img/chamonix-oct-24-thur-view.jpg)
 _Torsdag._
 Dagen starter med en "lett alpin" start, dvs. en start tilegnet å nå første gondol opp til toppen av Aiguille du Midi, ved soloppgang kl 07:30. 
 Dertil hører inntagelse av en spartansk frokost, og en spartansk mengde ord på denne trøtte morrakvisten, et vitnesbyrd til hvor seriøse og motiverte alpinister vi er, som sparer tid, krefter, og søvn for å maksimere utbyttet av dagslyset. 
@@ -86,7 +86,7 @@ Vel nede i hytta har Simon funnet roen og har gjort det riktig koselig ved peise
 _Mandag._
 Ved morgenkaffen annonserer Sondre og Simon at været i Italia er meldt for dårlig, så de vil bli en dag til på hytta. Vi går derfor prompte igang med å kartlegge proviantsituasjonen og rasjonere for at gutta kan bli en dag til. I hyttas matlager kommer vi over både havregryn og couscous, og håpet er reddet. 
 Vi begir oss ut på en liten morgenklatretur, hvor vi balanserer over _Pont des soupirs,_ en aldeles fabelaktig stein som på umulig vis er kilt fast mellom to pinnakler.
-Etter dise 3 taulengdene er det imidlertid min tur å trekke bail-kortet, da jeg må rekke toget ned til byen igjen. Visst har jeg med meg gåstaver, men gåturen fra Montenvers til Chamonix har jeg hatt den morbide gleden av før, og vil helst spare knærne mens jeg kan. Etter turens fjerde (og siste) bail og et tårevått farvel til gutta, tar jeg beina på nakken og lakker ned over bakken mot stigene.
+Etter disse 3 taulengdene er det imidlertid min tur å trekke bail-kortet, da jeg må rekke toget ned til byen igjen. Visst har jeg med meg gåstaver, men gåturen fra Montenvers til Chamonix har jeg hatt den morbide gleden av før, og vil helst spare knærne mens jeg kan. Etter turens fjerde (og siste) bail og et tårevått farvel til gutta, tar jeg beina på nakken og lakker ned over bakken mot stigene.
 
 Vel nede i dalen kommer jeg over en bokhandel og finner et eneste eksemplar av _Patagonia Vertical_, guideboken til El Chaltén. Den kommer med hjem til blomsterbussen, hvor jeg fordyper meg i Patagonias eventyrlige landskap. Jeg sovner og drømmer om argentinske solnedganger over spisse tinder.
 

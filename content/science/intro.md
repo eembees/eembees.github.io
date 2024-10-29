@@ -5,4 +5,6 @@ draft = false
 +++
 ## Science
 This page is my page for exploration of science. 
-I'm currently very fascinated by molecular biology and here I'll try to document my notes and papers that I find that interest me. 
+I'm currently very fascinated by molecular biology and here I'll try to document my notes and papers that I find that interest me.
+
+Most of these notes are personal but I will try to make them as understandable as possible, mostly as a learning experience. 

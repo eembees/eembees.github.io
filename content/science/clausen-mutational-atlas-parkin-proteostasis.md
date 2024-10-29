@@ -4,7 +4,27 @@ date = 2024-10-24T12:45:40+02:00
 draft = false
 tags = ['molecular-biology', 'science']
 +++
+This is my attempt to summarize this article by Clausen et. al, by rewriting it in more "normal" language. See my [Paper Reading](./intro.md) for more. 
+
 [Link to the article here](https://www.nature.com/articles/s41467-024-45829-4)
+
+## The short version
+
+- The article uses a high-throughput scanning method (VAMP-seq) to quantify the abundance of 9219 out of 9300 possible Parkin variants in cultured human cells.
+- Most low-abundance Parkin variants are proteasome targets, found within the structured domains of the protein. When these occur the protein misfolds and is targeted.
+- The authors find strong evidence for a degron region located next to the activation element in Parkin.
+- Half of known disease-linked Parkin variants were found to have low abundance.
+
+## The questions I'm left with after reading this article?
+
+1. The authors propose that:
+    > most of the low abundance Parkin variants are likely subject to PQC-linked degradation due to an underlying destabilization of the native fold
+    - or in simpler terms, the variants with low abundance are so because the mutated structure is less stable and therefore they're red-carded and destroyed
+    - how can we probe whether this is actually true? My first thoughts are to analyze these with a smFRET-assay or a similar structural probing assay, but this would depend on the dynamics of the protein itself.
+1. _It's possible that the low abundance of the most C-terminal Parkin tile is due to Parkin carrying a C-degron_. 
+    - The authors offer up the supporting case that clipping the last residue/amino acid increases abundance. 
+    - How would we find out whether this is the case? Could we inhibit all other degrons, _and then_ change the C-terminal to find out whether it contributes degron activity?
+
 
 ## The Parkin Protein
 
@@ -107,13 +127,3 @@ They find the following:
 2. Some variants have low abundance but high stabilities. These variants all have mutations on the parts of the protein that point outwards, which means they _probably form a degron_, which means they're quickly red-carded.
     - Out of these variants, some are known to be pathogenic, i.e. have been documented to cause disease in humans. 
     - This suggests that disease causing variants are so due to a loss in _function_, not _structure_ of the protein.  
-
-## The questions I'm left with after reading this article?
-
-1. The authors propose that:
-    > most of the low abundance Parkin variants are likely subject to PQC-linked degradation due to an underlying destabilization of the native fold
-    - or in simpler terms, the variants with low abundance are so because the mutated structure is less stable and therefore they're red-carded and destroyed
-    - how can we probe whether this is actually true? My first thoughts are to analyze these with a smFRET-assay or a similar structural probing assay, but this would depend on the dynamics of the protein itself.
-1. _It's possible that the low abundance of the most C-terminal Parkin tile is due to Parkin carrying a C-degron_. 
-    - The authors offer up the supporting case that clipping the last residue/amino acid increases abundance. 
-    - How would we find out whether this is the case? Could we inhibit all other degrons, _and then_ change the C-terminal to find out whether it contributes degron activity?
