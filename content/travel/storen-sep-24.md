@@ -32,7 +32,8 @@ Nils var heldigvis i form og gira, og han tråkket et godt spor opp snøen opp m
 ![Ingen topp uten et skikkelig bilde.](/img/storen-sep-24-topp.jpg)
 
 Nedstigningen gikk rolig for seg, og vi tok oss god tid med å nyte denne første høstdagen i fjellet.
-Veronicas stegjern hadde ingen planer om en kjedelig nedstigning, og bestemte seg for å løsne seg mens vi krysset en bresprekk. Med to staute karer i taulaget lykkes det Veronica å komme trygt over, med stegjern i hånda og hjertet i halsen.
+Veronicas stegjern hadde ingen planer om en kjedelig nedstigning, og bestemte seg for å løsne seg mens vi krysset en bresprekk. Med to staute karer i taulaget lykkes det Veronica å komme trygt over, med stegjern i hånda og et Bambi-aktig ganglag.  
+
 Resten av turen til Turtagrø begikk seg ganske rolig, og vi fikk nyte solnedgangen over fjella før avgang.
 Med godt humør sier vi farvel for denne gangen, og setter oss i bilen for å vende tilbake til storbyens forgylte jammer og sivilisasjonens triste herlighet.
 
