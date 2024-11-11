@@ -26,6 +26,7 @@ Basically, we have a feedback loop:
 There are obviously positive effects to fields growing, but we can't forget the value of basic research, which is how new fields are created in the first place.
 Additionally, if you're doing cutting-edge work, your most recent publications won't show what you're working on now, but rather _what you worked on a year ago_. 
 Therefore, **if you're going into a field because it's hot, you'll always be one step behind.** [^2]
+Finding a niche will be easier in a field you already know - but exploring that is for another essay. 
 
 [^1]: Even after being **demoted** at UPenn, Karikó [continued her mRNA research](https://www.statnews.com/2020/11/10/the-story-of-mrna-how-a-once-dismissed-idea-became-a-leading-technology-in-the-covid-vaccine-race/). I can't believe the amount of drive that must have required. 
-[^2]: I'm pretty sure this applies in other areas as well but I can't think of any examples right now. 
+[^2]: I'm pretty sure this applies in other areas as well but I can't think of any examples right now.
