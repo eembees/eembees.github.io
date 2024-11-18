@@ -2,6 +2,7 @@
 title = 'Pg Vector Is All You Need'
 date = 2024-01-31T15:43:16+01:00
 draft = false
+tags = ['tech']
 +++
 
 We're building a Vector Search product.
