@@ -6,12 +6,13 @@ menu = "main"
 +++
 This is my [now page](https://nownownow.com/about).
 
+# My life
 Returned back to Copenhagen this fall after a summer bikepacking and climbing in Lofoten and Bohuslän. 
 
-I just read [The Good Virus](https://www.goodreads.com/book/show/62586006-the-good-virus) and growing increasingly interested in microbiology and biophysics. 
+I just read [The Good Virus](https://www.goodreads.com/book/show/62586006-the-good-virus) and growing increasingly interested following progress in microbiology and biophysics.
 See my [science section](./science) for an overview of the articles I've been reading.
 
-# What I'm working on
+# My work
 After 4 years with [Corti](https://corti.ai), I'm taking a break and looking for new projects.
 
 Along with some talented colleagues from UCPH and CBS, we're designing a new AI course for [DIS Copenhagen](https://disabroad.org/).
