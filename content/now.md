@@ -7,7 +7,8 @@ menu = "main"
 This is my [now page](https://nownownow.com/about).
 
 # My life
-Returned back to Copenhagen this fall after a summer bikepacking and climbing in Lofoten and Bohuslän. 
+
+Just left Copenhagen winter for Patagonia over winter. Catch my [travel section](./travel) for more details. 
 
 I just read [The Good Virus](https://www.goodreads.com/book/show/62586006-the-good-virus) and growing increasingly interested following progress in microbiology and biophysics.
 See my [science section](./science) for an overview of the articles I've been reading.
