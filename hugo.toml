@@ -1,5 +1,5 @@
 baseURL = 'https://mags.nu/'
-theme = "hugo-bearcub"
+theme = ["hugo-bearcub", "hugo-shortcode-gallery"]
 
 [outputs]
   home = ['html', 'rss']
