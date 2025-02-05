@@ -31,3 +31,19 @@ Vi begynte å rigge oss til for å stå de 100 høydemeterne ned. Jeg bakser med
 Selvfølgelig ikke. Daniel tok stavene fatt, og etter en hel del anstrengelse sto vi klare til sesongens første nedrenn.
 
 Ved bilen ble vi enige om at denne sesongstarten ikke hadde levert. Med halen mellom beina og forherdede hjerter kjørte vi i retning Trondheim. Kanskje vi hadde hatt bedre hell i Gråkallen.
+
+
+{{< gallery
+    match="images/*"
+    sortOrder="asc"
+    rowHeight="150"
+    margins="4"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
+
+
