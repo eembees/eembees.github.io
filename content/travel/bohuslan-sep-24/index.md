@@ -72,3 +72,13 @@ But it's time to find a new Bohuslän project.
 Big thanks to Josh for working together on Masken, Elin for hosting, and Ebba for giving a catch. 
 More adventures to come!
 
+{{< gallery
+    match="images/*"
+    sortOrder="desc"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
