@@ -9,7 +9,7 @@ description = 'Den første delen av patagoniaturen 2024 - Refugio Frey i Bariloc
 Det norske nano-medisinske taulaget ankom Bariloche i nattens mulm og mørke den 17.12. Etter empanadas og en god natt søvn var vi klare for å handle mat og ressurser for den neste ukes tid og samtidig navigere rundt i Bariloche, denne sveitiske kolonien i Patagonias mytologiske fjellområder. Mat var ikke vanskelig å finne, men etter å ha besøkt samtlige friluftsbutikker konstaterte vi at spritbrennere er sjelden vare her. Vi klarte å oppdrive noe 70% sprit som forhåpentligvis fungerer, men til neste gang lar vi spritbrenneren ligge hjemme. 
 
 En større utfordring stod i å finne en VHF-radio. På tross av at alle guidebøker og nasjonalparksenter anbefaler å ha med en VHF i tilfellet at uhellet er ute, lot de seg ikke oppdrive i hele byen. Vi ga opp og begynte å teste Mate, den argentinske nasjonaldrikken, i ettermiddagssola, noe som medførte at hele taulaget ble solbrent. Vi kvitterer med en biffmiddag, som nok blir det siste siviliserte måltidet på en stund. 
-
+<!-- 
 {{< gallery
     match="images/01*"
     sortOrder="asc"
@@ -20,7 +20,7 @@ En større utfordring stod i å finne en VHF-radio. På tross av at alle guideb�
     embedPreview=true
     loadJQuery=true
     lastRow="center"
->}}
+>}} -->
 
 
 ## Anmarsj til Frey 
@@ -48,7 +48,7 @@ På veggen er vi heldige og Sudafricana er fremdeles i skyggen - vi er fremdeles
 
 Vel nede forbereder vi en stor middag og nyter fjellufta. Det uunngåelige faktum forblir dog usagt - vi har ikke nok mat og gass til hele uka. Vi legger oss til å sove og funderer på hvordan vi skal løse dette uten å miste for mye klatring. 
 
-{{< gallery
+<!-- {{< gallery
     match="images/02-*"
     sortOrder="asc"
     thumbnailResizeOptions="600x600 q90 Lanczos"
@@ -57,7 +57,7 @@ Vel nede forbereder vi en stor middag og nyter fjellufta. Det uunngåelige faktu
     embedPreview=true
     loadJQuery=true
     lastRow="center"
->}}
+>}} -->
 
 ## 22.12 - Aguja Abuelo og en uønsket gjest i camp
 Brått vekkes vi av en canadisk stemme utenfor teltet:
@@ -74,7 +74,7 @@ Pilsen, omgivelsene, og været har en oppkvikkende effekt på meg, og jeg bestem
 Men lykken står den kjekke bi! Ved et lykketreff kom jeg til å spørre _innehaveren_ av en av butikkene, som etter å ha hørt historien om revebesøket, gikk med på å åpne for meg i 10 minutter. Jeg fylte sekken med så mye skinke, ost, vin, og tørrmelk jeg kunne bære, og pakket to store biffer for å overraske Sondre med. Litt senere starter jeg turen opp mot Frey i et særdeles lystig humør, og slår følge med Teo, en argentinsk tindevegleder som skal opp og besøke kjæresten som jobber på hytta. Jeg kommer opp til ferdig middag a la Sondre, som har blitt kompis med Sören og Christian, to tyskere som også er her over julefeiringen. Mett, sliten og glad ruller jeg meg inn i soveposen og lytter til vinden som blafrer i teltduken.
 
 
-{{< gallery
+<!-- {{< gallery
     match="images/03-*"
     sortOrder="asc"
     thumbnailResizeOptions="600x600 q90 Lanczos"
@@ -83,7 +83,7 @@ Men lykken står den kjekke bi! Ved et lykketreff kom jeg til å spørre _inneha
     embedPreview=true
     loadJQuery=true
     lastRow="center"
->}}
+>}} -->
 
 
 ## 23.12 - "Sifuentes-Monti" på Aguja Frey 
@@ -93,7 +93,7 @@ Biffmiddagen som venter nede i camp setter vann i munnen på oss og alle de andr
 
 
 
-{{< gallery
+<!-- {{< gallery
     match="images/04-*"
     sortOrder="asc"
     thumbnailResizeOptions="600x600 q90 Lanczos"
@@ -102,7 +102,7 @@ Biffmiddagen som venter nede i camp setter vann i munnen på oss og alle de andr
     embedPreview=true
     loadJQuery=true
     lastRow="center"
->}}
+>}} -->
 
 
 
@@ -114,7 +114,7 @@ Under innmarsjen er det god stemning, og ved innsteget ser vi en helt perfekt h�
 Julefeiringen er også ukonvensjonell - etter obligatorisk julebading, får vi en 4-retters middag på hytta, servert i DNT-stil 80 gjester. Vi får sitte med en stor gjeng klatrere, og det er veldig hyggelig stemning - folk er kommet fra USA, Tyskland, Australia, Sveits, Nederland og England for å feire jul her. Avslutningsvis filosoferer vi under Melkeveien til langt på natt, og jeg sovner under stjernene.
 
 
-{{< gallery
+<!-- {{< gallery
     match="images/05-*"
     sortOrder="asc"
     thumbnailResizeOptions="600x600 q90 Lanczos"
@@ -123,7 +123,7 @@ Julefeiringen er også ukonvensjonell - etter obligatorisk julebading, får vi e
     embedPreview=true
     loadJQuery=true
     lastRow="center"
->}}
+>}} -->
 
 ## 25.12 - Første dag uten Sondre i taulaget
 
