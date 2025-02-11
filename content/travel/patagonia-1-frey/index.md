@@ -1,5 +1,5 @@
 +++
-title = 'Patagonia - Refugio Frey'
+title = 'Patagonia - Refugio Frey (🇳🇴)'
 date = 2024-12-15T11:14:41+01:00
 draft = true
 +++
