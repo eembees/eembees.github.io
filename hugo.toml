@@ -1,4 +1,5 @@
 baseURL = 'https://mags.nu/'
+timeout="60s"
 theme = ["hugo-bearcub", "hugo-shortcode-gallery"]
 
 [outputs]
@@ -20,4 +21,4 @@ copyright = '© 2024 Magnus Sletfjerding'
     contentDir = "content"
     [languages.en.params]
 
-timeout="60s"
+
