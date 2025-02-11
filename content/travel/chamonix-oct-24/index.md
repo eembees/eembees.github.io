@@ -1,5 +1,5 @@
 +++
-title = 'Chamonix October 24'
+title = 'Chamonix October 24 - (🇳🇴)'
 date = 2024-10-24T16:36:00+01:00
 draft = false
 +++

@@ -1,5 +1,5 @@
 +++
-title = 'Blanke Ark - Starten av en skisesong'
+title = 'Blanke Ark - Starten av en skisesong (🇳🇴)'
 date = 2024-11-21T18:18:00+01:00
 draft = false
 +++

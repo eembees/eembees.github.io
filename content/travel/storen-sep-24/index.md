@@ -1,5 +1,5 @@
 +++
-title = 'Store Skagastølstind September 24'
+title = 'Store Skagastølstind September 24 - (🇳🇴)'
 date = 2024-09-01T22:00:00+01:00
 draft = false
 +++

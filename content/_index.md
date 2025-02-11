@@ -5,10 +5,6 @@ draft = false
 +++
 Hi, I'm Magnus! 👋
 
-## Notice
-I'm currently traveling until Feb 1st 2024 and will be slow in response. 
-
-
 ## Me in 5 sentences
 
 In the past, I've been a student, a teacher, an engineer and a scientist.
