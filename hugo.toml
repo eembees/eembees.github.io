@@ -19,3 +19,5 @@ copyright = '© 2024 Magnus Sletfjerding'
     languageCode = 'en-us'
     contentDir = "content"
     [languages.en.params]
+
+timeout = 60s
