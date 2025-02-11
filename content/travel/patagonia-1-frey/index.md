@@ -2,6 +2,7 @@
 title = 'Patagonia - Refugio Frey (🇳🇴)'
 date = 2024-12-15T11:14:41+01:00
 draft = false
+description = 'Den første delen av patagoniaturen 2024 - Refugio Frey i Bariloche'
 +++
 
 ## Ankomst
