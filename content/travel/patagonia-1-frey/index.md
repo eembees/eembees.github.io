@@ -1,5 +1,5 @@
 +++
-title = 'Patagonia - Refugio Frey (🇳🇴)'
+title = 'Patagonia Del 1 - Refugio Frey (🇳🇴)'
 date = 2024-12-15T11:14:41+01:00
 draft = false
 description = 'Den første delen av patagoniaturen 2024 - Refugio Frey i Bariloche'
@@ -142,7 +142,7 @@ Når vi kommer ned til hytta er gjensynsgleden stor - Sondre og våre amerikansk
 ## 27.12 - Siste klatredag på Frey 
 Det er nå tre dager siden Sondre fikk halvdelen av tommelen revet av. Idag vil han tilbake og få revansj på toppen, med tommelen i bandasje. For sikkerhets skyld starter vi fra camp allerede kl 07, for å ha god tid. Når vi står ved innsteget starter Sondre med å lede de første taulengdene, med _tommelen i bandasje_! Vi når toppen som dagens første, og rekker å fjase rundt en stund før vi rappellerer ned. 
 
-Vi kommer ned til hytta og feirer velrasjonerte dager med et smørgåsbord av rester - salami, ost, linser og ris blir skylt ned med grønnsakssuppe, rødvin, og siste rest av whiskyen vår. Imorgen venter kun utmarsj tilbake til sivilisasjonen.
+Vi kommer ned til hytta og feirer velrasjonerte dager med et smørgåsbord av rester - salami, ost, linser og ris blir skylt ned med grønnsakssuppe, rødvin, og siste rest av whiskyen vår. Imorgen venter kun utmarsj tilbake til sivilisasjonen og turen videre til [El Chalten](/travel/patagonia-2-chalten).
 
 
 ## Alle bilder
