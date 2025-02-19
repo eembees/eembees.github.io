@@ -5,14 +5,12 @@ draft = false
 +++
 Hi, I'm Magnus! 👋
 
-## Me in 5 sentences
-
-In the past, I've been a student, a teacher, an engineer and a scientist.
-
-In my spare time, I'm a climber, a runner, an organization founder, and (now) a writer.
+## Me in 3 sentences
 
 I come from Trondheim, Norway, and currently live in Copenhagen. 
 I've also lived in Houston and Beijing for shorter periods of time.
+
+In my spare time, I like to climb, run, contribute to local organizations, and write.
 
 For more, see my [About](./about.md).
 

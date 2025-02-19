@@ -10,11 +10,11 @@ This is my [now page](https://nownownow.com/about).
 I just returned to Copenhagen from [my trip to Patagonia](./travel/patagonia-1-frey) over Christmas.
 
 I just read [The Good Virus](https://www.goodreads.com/book/show/62586006-the-good-virus) and growing increasingly interested following progress in microbiology and biophysics.
-See my [science section](./science) for an overview of the articles I've been reading.
+<!-- See my [science section](./science) for an overview of the articles I've been reading. -->
 
 # My work
 After 4 years with [Corti](https://corti.ai), I'm taking a break and looking for new projects.
 
-Along with some talented colleagues from UCPH and CBS, we're designing a new AI course for [DIS Copenhagen](https://disabroad.org/).
+Along with some talented colleagues from UCPH, DTU, and CBS, we're designing a course on the [Business Potential of Generative Intelligence](https://disabroad.org/course/business-potential-of-generative-intelligence/) for [DIS Copenhagen](https://disabroad.org/).
 
-I'm also keeping busy with board work at [Nørrebro Klatreklub](http://nkk.dk/).
+<!-- I'm also keeping busy with board work at [Nørrebro Klatreklub](http://nkk.dk/). -->
