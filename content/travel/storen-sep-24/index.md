@@ -2,6 +2,7 @@
 title = 'Store Skagastølstind September 24 - (🇳🇴)'
 date = 2024-09-01T22:00:00+01:00
 draft = false
+tags = ['alpinism', 'norsk']
 +++
 Telefonen min vibrerer: Nils "Trøkkern"
 > "Hører du er i Oslo denne uka? Jeg har en skikkelig dum ide, er du med?"

@@ -2,6 +2,7 @@
 title = 'Blanke Ark - Starten av en skisesong (🇳🇴)'
 date = 2024-11-21T18:18:00+01:00
 draft = false
+tags = ['ski', 'norsk']
 +++
 
 Hybris blir belønnet med nemesis - gudenes hevn mot de overmodige.
