@@ -1,8 +1,20 @@
 +++
-title = 'Patagonia Del 2 - El Chalten [utkast] (🇳🇴)'
+title = 'Patagonia Del 2 - El Chalten (🇳🇴)'
 date = 2024-12-30T11:14:41+01:00
 draft = false
+description = 'Den andre delen av patagoniaturen 2024/25 - Legendariske El Chalten'
 +++
+[Andre Del - El Chalten](/travel/patagonia-1-frey/)
+
+{{< details summary="*Tips og triks for nordmenn som vil klatre i El Chalten*" >}}
+
+- Det er ikke dekning i fjella, så sørg for å ha en InReach eller et sett med VHF-radioer med. De fleste argentinere vi møtte hadde [BaoFeng](https://www.aliexpress.com/w/wholesale-baofeng-vhf-radio.html) eller Retevis radioer.
+- Frysetørket mat er ganske dyrt og vanskelig å få tak i, så det kan være en ide å ta med noe av det selv.
+- Telt: Vi hadde et tunneltelt, som vi ikke brukte i fjella i det hele tatt. Neste gang ville jeg tatt med et telt med kuppelkonstruksjon i stedet.
+- Guideboka kan kjøpes over alt i Chalten. Jeg fant min [på tur til Chamonix](/travel/chamonix-oct-24/) Det finnes også en PDF som sirkulerer blant de lokale klatrerne der nede.
+- Jeg oppdaterer med mer info på et tidspunkt. Evt [send meg en mail](mailto:blog-climb@mail.mags.nu).
+{{< /details >}}
+
 
 Vi ankom El Chalten midt imellom to værvinduer - jule-vinduet hadde vart 6 dager, og nå var det 2 uværsdager før et nytt vindu åpnet opp over nyttårsaften. Med lavt skydekke så vi ikke en snurt av de legendariske fjella i Chalten-massivet de to første dagene - i stedet fikk vi smake på det argentinerne kaller "verdens dårligste vær". På Hostel El Paredon, hjemmet vårt den neste måneden, støtte vi på våre australske og tyske venner fra Frey, og begynte å utveksle planer for det neste værvinduet. Vi har kommet med så lave forventninger som mulig, og har kun ett uttalt mål for denne turen - komme trygt hjem igjen.
 

@@ -4,6 +4,7 @@ date = 2024-12-15T11:14:41+01:00
 draft = false
 description = 'Den første delen av patagoniaturen 2024 - Refugio Frey i Bariloche'
 +++
+[Andre Del - El Chalten](/travel/patagonia-2-chalten/)
 {{< details summary="*Tips og triks for en klatretur til Frey-hytta* - hva hadde vi gjort annerledes neste gang?" >}}
 
 - Det er ikke dekning i fjella, så sørg for å ha en InReach eller et sett med VHF-radioer med. De fleste argentinere vi møtte hadde [BaoFeng](https://www.aliexpress.com/w/wholesale-baofeng-vhf-radio.html) eller Retevis radioer.
