@@ -64,3 +64,15 @@ Vi sover lenge og gjør oss klar til utmarsj. Det er allerede blåst opp ganske 
 ## 10.1 - Brenner-Moschioni på Aguja Guillamet
 
 
+Når alamen går er det vanskelig å tro at jeg ikke drømmer, med melkeveien som strekker seg i alle himmelretninger over meg. En rask morgenkaffe og sjokolade senere starter vi anmarsjen som taulag #4, allerede kl 0350. Vi følger de andre lyspunktene oppover - det er kaldt, så jeg har for en gangs skyld en varm start. Vi når ryggen etter halvannen time som det 2. taulaget, men dette hellet blir overskygget av en særdeles spektakulær soloppgang over Lago Viedma, som lyser opp Cerro Chalten-massivet. Tause av beundring blir vi stående og nyte dette synet mens vi venter på vår tur ved innsteget.
+
+Vi racker opp med alle klærne på, og Sondre går i gang med å lede de første 3 t.l. løpende - med hansker og isøks for å hakke is ut av sprekkene - og idet vi når cruxtaulengden er følelsen så smått kommet tilbake i fingre og tær. Jeg får første støt opp kaminen, og kjemper meg forbi isglatte sprekker og snødekte grep til en standplass i le. Sondre kjører videre opp neste t.l. nesten uavbrutt for å holde varmen mens jeg sosialiserer med noen nye standplassnaboer fra Tirol. Deretter følger en luftig fingertravers med utsikt ned til breen under oss - sannsynligvis den kuleste taulengden jeg har ledet så langt på denne turen, ikke minst fordi det hele ble gjort med full alpinsekk på ryggen - _heftig_!  
+
+Turen derfra til toppen går fort for seg, og vi forserer resten i 2 pitches løpende - det blir travlere og travlere når vi møter Comesaña-Fonrouge-ruta, men vi klarer å holde god tid opp. Snøfeltet på toppen er såpass smelta at vi forgår stegjern, og klokken 14 er gutta på toppen. Aguja Mermoz og Cerro Chalten ser så nære ut, og mye mindre fryktinngytende enn nede fra dalen. Det er ikke før vi ser et taulag på Mermoz at vi faktisk forstår størrelsen på disse fjella - og vi blir bergtatt nok en gang. Ingen sjanse for å være eplekjekke her.
+
+Rappelruta følger ryggen hele veien ned, men etter å ha sett de sikkert 20 andre taulagene på ruta bestemmer vi oss for å prøve å rappellere nordveggen for å være litt i fred. Ved årets største lykketreff finner vi rappellene ned uten problemer, og 2 timer senere står vi ved snøfeltet på bunnen av nordveggen. Forsiktige som Bambi på isen går vi ned til Piedra Negra mens vi tar innover oss hvor heldige vi har vært. Nede ved campen tillater vi oss en times lur og kort middag før verdens raskeste utmarsj til parkeringa, hvor hellet er med oss igjen - 5 minutter etter vi kommer ned får vi haik tilbake til byen. Nå skal vi sove mange timer. 
+
+## 19.1 - Forsøk på Pilar Rojo på Mermoz
+> Denne turen ble et fullt bail, men en utrolig opplevelse likevel. Jeg inkluderer den her fordi turen, utsikten, og selskapet fortjener forevigelse.
+
+
