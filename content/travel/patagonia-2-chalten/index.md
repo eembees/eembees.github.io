@@ -88,10 +88,19 @@ Rappelruta følger ryggen hele veien ned, men etter å ha sett de sikkert 20 and
 ## 19.1 - Forsøk på Pilar Rojo på Mermoz
 > Denne turen ble et fullt bail, men en utrolig opplevelse likevel. Jeg inkluderer den her fordi turen, utsikten, og selskapet fortjener forevigelse.
 
+Det er Sondres bursdag, og kvelden før har vi gått opp Fitz Roy-stien til Laguna De Los Tres og fortsatt litt lengre til vi kom til campen under breen. Siden det var fullt hus oppe på Paso Superior, la vi oss godt til rette med utsikt opp mot Cerro Chalten der den ruver som en gigantisk pipe over et nedsnødd setertak.
 
-<!-- ## Alle Bilder
+
+Kl 04 går alarmen og jeg er ekstra raskt på bena for å fikse kaffe til gullgutten som blir 26 i dag! Bursdagen blir feiret med dobbel morgenkaffe _og_ sjokolade. Etter en slik kraftfrokost er Sondre klar til å gønne på oppover, og vi følger stien over breen oppover. Mens vi får får vi øye på en hel flokk med hodelykter på vei opp Aguja Poincenot, noen ved innsteget, og andre langt oppover Whillans-Cochrane ruta. Det er mye snø og denne mixruta er sannsynligvis i gode forhold. 
+
+Vel på den andre siden av breen har vi valgt en rute rett opp til ryggen, og gir oss i kast med noe lett klyving i medium løs stein. I 8-tida når vi Paso Superior, og innser at det er usannsynlig å få klatret noe i dag med dette veivalget. Det gjør turen umiddelbart mye mer avslappende for vårt vedkommende, og vi får tatt en god rast ved campen, hvor vi også støter på noen gamle bekjente fra Tsjekkia. De har forsøkt Poincenot men ble sittende fast i en traffikkork uten like, og snudde like greit. Sondre og jeg beslutter oss for å ta en luftetur inn under Cerro Chalten, og virkelig ta inn området. Jo lengre vi går jo mer åpenbart er det at vi har tatt en god beslutning - lenge før rampen opp mot Mermoz synker vi 15 cm igjennom snøen for hvert skritt som går. Vi ser ut over dette fantastiske fjellområdet og tenker over hvor heldige vi er som får stå her på denne breen og se disse fjella på så nært hold. 
+
+Nede igjen ved Paso Superior tar vi nok en rast. Klokka er ikke så mange og vi har nå etablert at vi har ganske god tid til å komme oss ned til camp. Vi møter 3 spanjoler på vei opp, hvor den ene har mistet solbrillene sine. Jeg gir ham mine, da vi er på vei ned fra breen, og han nok trenger de mer enn meg. En time senere finner vi brillene hans ved en av rappellene, og karmaen slår inn når vi kommer ned i camp; tsjekkerne har etterlatt 2 porsjonspakker med gourmetkaffe til oss! Veien ned tilbake til Chalten føles allerede mye lettere. 
+
+Vi blir sittende veldig lenge i sola, trygt nede fra breen, for det som ble siste gang i det alpine for oss for denne gang. Begge er vi enige om at vi har fått god uttelling for turen, og at vi har lært mye om oss selv og hverandre. For anledningens skyld lot jeg meg til og med overtale til å bade i brevannet, og å svømme blant isklumpene som duppet rundt. Takknemlig for at vi kom trygt ned (og for min skyld, opp av vannet) lunter vi ned igjen til El Chalten, denne underlige men utrolige byen midt ute i den argentinske ødemarka.
+
 {{< gallery
-    match="images/*"
+    match="images/04-*"
     sortOrder="asc"
     thumbnailResizeOptions="600x600 q90 Lanczos"
     showExif=true
@@ -99,4 +108,7 @@ Rappelruta følger ryggen hele veien ned, men etter å ha sett de sikkert 20 and
     embedPreview=true
     loadJQuery=true
     lastRow="center"
->}} -->
+>}}
+
+> Tindesporten er meningsløs som selve livet, - derfor kan dens trolddom aldrig dø. 
+> Peter Wessel Zapffe
