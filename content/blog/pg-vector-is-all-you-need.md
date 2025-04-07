@@ -5,7 +5,7 @@ draft = false
 tags = ['tech']
 +++
 
-Here at Corti, we're demoing ways of building a Vector Search product.
+Here at [Corti](http://corti.ai/), we're demoing ways of building a Vector Search product.
 I love using Postgres.
 How far can I get using Postgres?
 

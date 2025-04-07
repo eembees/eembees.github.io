@@ -4,7 +4,7 @@ date = 2024-10-27T21:07:38+01:00
 draft = false
 tags = ["alpinism", "climbing", "patience"]
 +++
-Alpinism is waiting.
+[Alpinism](/travel/chamonix-oct-24/) is waiting.
 
 Newton said that invention is 99% perspiration and 1% inspiration - similarly, Alpinism is 90% waiting and 10% perspiration.
 
@@ -18,9 +18,11 @@ While waiting it's prudent to organize gear, look ahead for route finding, refue
 When both climbers have this mindset, there is a higher probability that the outing will be successful.
 Depending on the success metric that can be "summit" or "turn around in time to not get caught by objective danger" or just "have a fun day out".
 In general it stands that no one loves to wait even though everyone does it.
-That means that a being a good climbing partner involves: 1. minimizing waiting, but also 2. making waiting as enjoyable as possible.
+That means that a being a good climbing partner involves: 
+1. minimizing waiting, but also 
+2. making waiting as enjoyable as possible.
 
 
-[^1] : Even with advanced techniques exist such as [freesnaking](https://www.freesnakeclimbing.com/advanced-climbing-systems/freesnake-fix-and-follow) and [simulclimbing](https://www.brentbarghahn.com/climbing-blog/safe-simuling-2022) a _substantial part_ of alpinism is still waiting.
+[^1]: Even with advanced techniques exist such as [freesnaking](https://www.freesnakeclimbing.com/advanced-climbing-systems/freesnake-fix-and-follow) and [simulclimbing](https://www.brentbarghahn.com/climbing-blog/safe-simuling-2022) a _substantial part_ of alpinism is still waiting.
 
-[^2] : This is, incidentally, a parallel to Paul Graham's motto to [_always produce_](https://paulgraham.com/love.html). I'm not sure that the things that make a good founder always make a good alpinist, but it's an interesting comparison to investigate.
+[^2]: This is, incidentally, a parallel to Paul Graham's motto to [_always produce_](https://paulgraham.com/love.html). I'm not sure that the things that make a good founder always make a good alpinist, but it's an interesting comparison to investigate.

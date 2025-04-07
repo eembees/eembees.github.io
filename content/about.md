@@ -9,6 +9,6 @@ I'm Magnus, from Trondheim, Norway.
 
 I hold a M.Sc. in Nanoscience from the University of Copenhagen. 
 
-I worked at [Corti](http://corti.ai/) for 4 years until spring 2024, when I decided to take a break.
+I worked at [Corti](http://corti.ai/) for 4 years until spring 2024, when I decided to take a break and [travel a little bit](./travel).
 
-Find my cv [here](/doc/resume-long.pdf).
+Find my cv [here](/cv).
