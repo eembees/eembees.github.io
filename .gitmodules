@@ -3,4 +3,7 @@
 	url = https://github.com/eembees/hugo-bearcub.git
 [submodule "themes/hugo-shortcode-gallery"]
 	path = themes/hugo-shortcode-gallery
-	url = https://github.com/mfg92/hugo-shortcode-gallery.git
+	url = https://github.com/eembees/hugo-shortcode-gallery.git
+[submodule "static/thoughts"]
+	path = static/thoughts
+	url = git@github.com:eembees/thoughts.git
