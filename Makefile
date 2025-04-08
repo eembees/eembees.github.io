@@ -1,5 +1,6 @@
-thought:
-	git submodule update --remote
-	git add static/thoughts
-	git commit -m thought
+drafts:
+	hugo serve --disableFastRender --buildDrafts
+
+serve: 
+	hugo serve --disableFastRender
 
