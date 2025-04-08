@@ -14,5 +14,4 @@ In my spare time, I like to climb, run, contribute to local organizations, and w
 
 For more, see my [About](./about.md).
 
-## What am I doing now?
-Check out my [Now Page](./now.md) ☺️
+## What [Now?](./now.md) ☺️
