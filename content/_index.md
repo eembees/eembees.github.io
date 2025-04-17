@@ -10,7 +10,7 @@ Hi, I'm Magnus! 👋
 I come from Trondheim, Norway, and currently live in Copenhagen. 
 I've also lived in Houston and Beijing for shorter periods of time.
 
-In my spare time, I like to climb, run, contribute to local organizations, and write.
+In my spare time, I like to climb, run, contribute to local organizations, and write. In general, I will say [yes more than no](./yep).
 
 For more, see my [About](./about.md).
 
