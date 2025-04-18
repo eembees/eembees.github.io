@@ -5,5 +5,5 @@ draft = true
 +++
 2024 was a year of _Adventure_.
 
-In April, I left my job in Corti to spend the summer travelling. 
+In April, [I left my job in Corti](./bye-corti/) to spend the summer travelling. 
 
