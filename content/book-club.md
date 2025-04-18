@@ -57,10 +57,11 @@ Italics and bold is mine, but I suppose that's the theme. The ugly old maid cour
 # Third Book - *Lord of the Flies*
 > Reading Reading Reading.
 
-Read it some years ago so re reading will be cool. 
+Read it some years ago so re reading will be cool.  
+I think I'll read with the eyes of an adult looking at how the world has changed since 1954, when .
 
 
-Since most of Goldings' thoughts about young kids [have been shown to be completely unrealistic](https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months), I guess it could be an interesting study of building a narrative that supports your own point of view? Golding was a schoolmaster after all, from the pre-[Pink Floyd](https://www.pinkfloyd.net/albums/index.php?lyrics=6#4) Era, the colleagues of whom inspired this great lyric:
+Since most of Goldings' thoughts about young kids [have been shown to be completely unrealistic](https://www.theguardian.com/books/2020/may/09/the-real-lord-of-the-flies-what-happened-when-six-boys-were-shipwrecked-for-15-months), I guess it could be an interesting study of building a narrative that supports your own point of view? Golding was an alcoholic war veteran turned schoolmaster after all, the type of which inspired this great [Pink Floyd](https://www.pinkfloyd.net/albums/index.php?lyrics=6#4) lyric:
 
 > When we grew up and went to school  
 > There were certain teachers who would  
