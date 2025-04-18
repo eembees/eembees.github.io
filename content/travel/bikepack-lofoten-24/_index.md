@@ -19,26 +19,98 @@ Etter en lang vinter i København, hvor flere av [mine nære venner](https://www
 ## Første Stopp - Bohuslän
 
 
+{{< gallery
+    match="images/01-*"
+    sortOrder="desc"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
+
 
 ## Andre Stopp - Tønsberg og Larvik Buldrefestival 
+{{< gallery
+    match="images/02-*"
+    sortOrder="desc"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
 
 
 
 ## Tredje Stopp - Bodø og Fulgøya
 
+{{< gallery
+    match="images/03-*"
+    sortOrder="desc"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
+
 
 
 ## Fjerde Stopp - Lofoten - Presten Via Korstoget med Victor
+{{< gallery
+    match="images/04-*"
+    sortOrder="desc"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
 
 
 
 ## Femte Stopp - Utdrikningslag i Hornindal og regnvær i Molladalen
+{{< gallery
+    match="images/05-*"
+    sortOrder="desc"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
 
 
 
 ## Sjette Stopp - Vinjerock på sykkel
+{{< gallery
+    match="images/06-*"
+    sortOrder="desc"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
 
 
 
 ## Syvende Stopp - Alive Festival i Thy og gjensyn med kollektivet
+{{< gallery
+    match="images/07-*"
+    sortOrder="desc"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
 
