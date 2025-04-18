@@ -1,5 +1,5 @@
 +++
-title = 'Beijing'
+title = 'Beijing - Utveksling (🇳🇴)'
 date = 2018-09-01T16:39:55+01:00
 draft = false
 +++

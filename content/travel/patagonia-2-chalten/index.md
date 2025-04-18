@@ -4,15 +4,16 @@ date = 2024-12-30T11:14:41+01:00
 draft = false
 description = 'Den andre delen av patagoniaturen 2024/25 - Legendariske El Chalten'
 +++
-[Andre Del - El Chalten](/travel/patagonia-1-frey/)
+[Første Del - Refugio Frey](/travel/patagonia-1-frey/)
 
 {{< details summary="*Tips og triks for nordmenn som vil klatre i El Chalten*" >}}
 
-- Det er ikke dekning i fjella, så sørg for å ha en InReach eller et sett med VHF-radioer med. De fleste argentinere vi møtte hadde [BaoFeng](https://www.aliexpress.com/w/wholesale-baofeng-vhf-radio.html) eller Retevis radioer.
-- Frysetørket mat er ganske dyrt og vanskelig å få tak i, så det kan være en ide å ta med noe av det selv.
-- Telt: Vi hadde et tunneltelt, som vi ikke brukte i fjella i det hele tatt. Neste gang ville jeg tatt med et telt med kuppelkonstruksjon i stedet.
-- Guideboka kan kjøpes over alt i Chalten. Jeg fant min [på tur til Chamonix](/travel/chamonix-oct-24/) Det finnes også en PDF som sirkulerer blant de lokale klatrerne der nede.
-- Jeg oppdaterer med mer info på et tidspunkt. Evt [send meg en mail](mailto:blog-climb@mail.mags.nu).
+- **Radio** Det er ikke dekning i fjella, så sørg for å ha en InReach eller et sett med VHF-radioer med. De fleste argentinere vi møtte hadde [BaoFeng](https://www.aliexpress.com/w/wholesale-baofeng-vhf-radio.html) eller Retevis radioer, mens mange av amerikanerne sverget til InReach eller lignende. 
+- **Bosteder** kan gjøres på forskjellige måter. Klatrehostellet i byen, [Hem Herhu](https://www.instagram.com/hostel_hem_herhu/), ligger nærme noen lokale crags, og tilbyr både senger og hyggelige teltplasser. Andre muligheter er å leie en leilighet via AirBnB eller privat.  
+- **Utstyr:** Frysetørket mat er ganske dyrt og vanskelig å få tak i, så det kan være en ide å ta med noe av det selv.
+- **Telt**: Vi hadde et tunneltelt, som vi ikke brukte i fjella i det hele tatt. Neste gang ville jeg tatt med et telt med kuppelkonstruksjon i stedet.
+- **Guideboka** kan kjøpes over alt i Chalten. Jeg fant min [på tur til Chamonix](/travel/chamonix-oct-24/) Det finnes også en PDF som sirkulerer blant de lokale klatrerne der nede.
+- Oppdaterer med mer info på et tidspunkt. Evt [send meg en mail](mailto:blog-climb@mail.mags.nu).
 {{< /details >}}
 
 

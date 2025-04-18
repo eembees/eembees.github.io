@@ -1,12 +1,7 @@
 +++
-title = "Nobody Wants to Be an Expert Anymore"
+title = "Why Nobody Wants to Be an Expert Anymore"
 date = "2024-10-22T16:56:39+02:00"
 draft = "true"
-#
-# description is optional
-#
-# description = "An optional description for SEO. If not provided, an automatically created summary will be used."
-
 tags = []
 +++
 
@@ -21,6 +16,10 @@ However, it seems as if the tide is about to turn.
 Across governments in Scandinavia, experts are valued less and less. *Add sources here?*
 From Danish Govenmernt officials officially disheeding expert advice (green 3part?) to the Norwegian Government disheeding experts in minind operations out in the north sea, we see government taking expert very unseriously. 
 For kids in high school age, deciding what to do with their lives, the message is clear: Expert advice is not valued, not useful, and will not give influence, status or position in society.
+
+Another element of this is driven by the short-form content that we're conditioned into consuming information by. 
+Some go as far as to say society in itself is [anti-intellectualist](https://www.wheresyoured.at/why-we-shouldnt-be-surprised-people/). 
+I'd not go as far, and rather say that we've allowed pseudo-intellectual discourse to take over forums for debate. 
 
 ## Better access to education means we merit it lower value
 Democratization of education is a good thing at face value.

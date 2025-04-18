@@ -14,7 +14,8 @@ It's climbing season in Scandinavia again, so weekend trips to Sweden is the nam
 ## Reading
 
 - *The Plague* -- **Albert Camus**
-- [*Drive Your Plough Over the Bones of the Dead*](https://www.goodreads.com/book/show/56433385-drive-your-plough-over-the-bones-of-the-dead) -- **Olga Tokarczuk** for book club
+- [*Drive Your Plough Over the Bones of the Dead*](https://www.goodreads.com/book/show/56433385-drive-your-plough-over-the-bones-of-the-dead) -- **Olga Tokarczuk** for [book club](./book-club)
+- [*Until August*](https://www.goodreads.com/book/show/199928404-until-august) -- **Gabriel García Márquez**
 - [*The Good Virus*](https://www.goodreads.com/book/show/62586006-the-good-virus) -- resparked my interest for microbiology and biophysics.
 
 <!-- See my [science section](./science) for an overview of the articles I've been reading. -->
