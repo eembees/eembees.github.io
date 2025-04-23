@@ -4,3 +4,6 @@ drafts:
 serve: 
 	hugo serve --disableFastRender
 
+
+install:
+	git submodule update --init --recursive
