@@ -1,8 +1,7 @@
 +++
 title = 'Conversational AI from here to infinity'
 date = 2025-04-22T07:00:00+02:00
-draft = true
-
+draft = false
 +++
 One year after [leaving Corti](./bye-corti), a lot has happened in Tech in Copenhagen - [Corti released their Foundation Model for healthcare](https://www.corti.ai/foundation-models) and I've returned from my  [year of adventure](../year-of-adventure) to start a new job. This week I joined the brilliant team built by [Mads](https://x.com/madskaysen) and [Jesper](https://alkestrup.com/) building Conversational AI (CAI) in [TheTechCollective](https://thetechcollective.eu/). 
 I'm beyond excited - the "[Hell Yeah](https://sive.rs/hellyeah)"  heuristic was already high going in, and after a week it's off the charts. 
