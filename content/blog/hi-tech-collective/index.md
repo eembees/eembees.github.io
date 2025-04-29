@@ -5,8 +5,17 @@ draft = false
 +++
 One year after [leaving Corti](./bye-corti), a lot has happened in Tech in Copenhagen - [Corti released their Foundation Model for healthcare](https://www.corti.ai/foundation-models) and I've returned from my  [year of adventure](../year-of-adventure) to start a new job. This week I joined the brilliant team built by [Mads](https://x.com/madskaysen) and [Jesper](https://alkestrup.com/) building Conversational AI (CAI) in [TheTechCollective](https://thetechcollective.eu/). 
 I'm beyond excited - the "[Hell Yeah](https://sive.rs/hellyeah)"  heuristic was already high going in, and after a week it's off the charts. 
-
-![The lovely team I'll get to work with going forward](./images/hackathon-group.jpeg)
+{{< gallery
+    match="images/hackathon-group.jpeg"
+    sortOrder="desc"
+    rowHeight="300"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
 
 ## Why I'm so excited to work here
 
@@ -36,21 +45,52 @@ The team introduction, in this round, was the most intense I've experienced so f
 I was invited for a 2-day offsite hackathon with the entire 15 person extended team, and we were immediately set off to ~vibe-code~ hack away. 
 To my great fortune I was paired up with Adam, and we built a LARP game management system focusing on email-based quest interactions, character management, and location tracking.
 Alas, this was not enough to win the entire hackathon, but we made the podium! As a first time vibe coding my way towards success I was quite satisfied and happy to have met the entire team.
-![The podium winners of the hackathon](./images/hackathon-crown.jpeg) 
+{{< gallery
+    match="images/hackathon-crown.jpeg"
+    sortOrder="desc"
+    rowHeight="300"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
+
 
 ## Like a startup, but in a Big Corp
 In my first week I was surprised at how _startuppy_ working with the team felt. 
 Almost like in my [onboarding in Corti](./bye-phd-hi-corti/), I was immediately pulled into meetings, asked to review and contribute code, project descriptions, and slides.
 
 Our office space (the Loft) reflects this too - with programmers, designers, and commercial functions working side by side, I immediately thought I had stepped back into a seed-stage startup.
-![Our intimate and cozy Loft](./images/cai-loft.jpeg)
+
+{{< gallery
+    match="images/*-cai.jpeg"
+    sortOrder="desc"
+    rowHeight="300"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
+
 
 ## Consulting means facilitation
 A side bonus of being part of [Implement](https://implementconsultinggroup.com/) is that people like me - techies - are actively invited to develop the toolbox available to general consultants. Already in my first week I was invited to join a Facilitation Training, learning how Implement runs workshops. As all the facilitation I've done in the past has been through NGOs and educational initiatives (thank you, [EYP](https://eyp.org)), having a professional perspective on these was very eye-opening. 
 
-![Myself, Marius, Josefine and Michelle planning workshops](./images/facilitation-training.jpeg)
-
+{{< gallery
+    match="images/*-training.jpeg"
+    sortOrder="desc"
+    rowHeight="300"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
 
 ## I'm officially an "Implementer" 🎉
 I sincerely believe that I'm once more in the right place at the right time. I'll continue to explore Copenhagen's tech space as best I can, and follow where my curiosity takes me.
-
