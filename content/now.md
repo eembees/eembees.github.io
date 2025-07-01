@@ -4,6 +4,10 @@ date = 2024-10-04T10:24:31+02:00
 draft = false
 menu = "main"
 +++
+## Work
+Recently joined Implement Consulting Group and exploring the consulting space from within.
+So far, impressions are [very good](./blog/hi-tech-collective)
+
 ## Travel
 
 Returned to Copenhagen from [my trip to Patagonia](./travel/patagonia-1-frey) over Christmas.

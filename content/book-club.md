@@ -72,7 +72,16 @@ Since most of Goldings' thoughts about young kids [have been shown to be complet
 > And exposing every weakness  
 > However carefully hidden by the kids
 
-# Fourth Book?
+# Fourth Book - **On the Road** by J Kerouac 
+Immediate Thoughts
+- Enjoyed the language describing Bebop and jazz clubs. Evident that music definitely touches the narrator closely, also shown in the parts discussing mambo music in mexico
+- Paradoxical situation: Sal describes all Deans adventures and frenzies as sometimes downright irresponsible and "far out" but seems to brush of his own, similarly crazy experiences.
+- Towards the end, re-introducing the people that adored Dean but now are grown up and tell him to grown up, are an interesting piece of plot. It brings out the theme that many of these were not necessairly Deans _friend_ rather just using him or somehow gaining from his prescence under the pretense of friendship 
+- Towards the ending the monotony of travel seems to have worn our narrator out as even the Road becomes mundane. I think many backpackers can relate to this feeling.
+- In contrast, it seems like there is nogthing in the narrators life except from life On The Road, since he never mentions his life actually staying in the cities.
 
-# Candidates
-- On the Road by J Kerouac seems nice. 
+My Score: 7/10
+Average book club score: 6/10
+
+# Fifth book - **Flowers For Algernon** by Daniel Keyes
+TBD
