@@ -84,4 +84,34 @@ My Score: 7/10
 Average book club score: 6/10
 
 # Fifth book - **Flowers For Algernon** by Daniel Keyes
-TBD
+This book has _everything_, I'm impressed. The Icarian reference pierces the entire book, but the most poignant part is that the protagonist is _aware_.
+
+### Themes
+
+- Man vs Nature 
+- Man vs God 
+- Man vs Man
+- Man vs Society
+
+
+
+### Snippets I found cheesy but good 
+
+- Where Charlie references Atreus, the greek family doomed to repent their ancestors sins. Very two-layered
+- When Norma meets Charlie again and says about Rose, their senile mother: "I could not put my own _mother_ in a home ... an institution."
+
+
+
+### Thoughts
+
+I can't help but think that there is a sense of irony throughout the book. 
+
+When Charlie realizes (and conveys to his assosciates/experimenters[^1]) that _intelligence is worth nothing without affection_, they invariably strike back that he has "lost something of himself ... the warm, likeable smile" that wishes to get to know others. However genuine that impression may be, the experimenters, throughout the entire first part of the book, _urge him to think of himself, keep track of himself, and otherwise focus all his mental energy on introspection_. 
+
+My main qualm with this is that for some reason none of the experimenters realize that Charlies developmental path forces him to go through socialization one more time. Considering that all his social cues point him to focus on himself it's not very unnatural that he turns out arrogant, with a strong chip on his shoulder to authority.[^2] He's even explicitly rewarded for questioning authority early on - why are the experimenters surprised when he, as the prodigal lab rat, escapes?
+
+
+
+[^1]: In this case, I think it's prudent to name Alice part of the experimenters.
+[^2]: Note to self, Kevin Simler wrote something about this here: [Personality: The Body in Society | Melting Asphalt](https://meltingasphalt.com/personality-the-body-in-society/)
+
