@@ -21,7 +21,7 @@ Vi ankom El Chalten midt imellom to værvinduer - jule-vinduet hadde vart 6 dage
 
 ## 1.1 Østveggen på Aguja de l'S 
 
-To dager senere, nyttårsaften, var et nytt værvindu åpnet og vi hadde satt målet til Aguja de l'S, på sydsiden av Chalten-massivet. Østveggen, _Cara Este_, involverer en blanding mellom klatring og klyving opp til 5+. Ivrige etter å se disse fjella på nært hold trøkka vi opp turstien, og småjogga forbi fotturister som også var ute og nyte finværet. Da vi kom til det første utkikkspunktet ble vi imidlertid stående målløse av størrelsen på fjella foran oss.
+To dager senere, nyttårsaften, var et nytt værvindu åpnet og vi hadde satt målet til Aguja de l'S, på sydsiden av Chalten-massivet. Østveggen, _Cara Este_, involverer en blanding mellom klatring og klyving opp til 5+, med et tidlig crux på 6a. Ivrige etter å se disse fjella på nært hold trøkka vi opp turstien, og småjogga forbi fotturister som også var ute og nyte finværet. Da vi kom til det første utkikkspunktet ble vi imidlertid stående målløse av størrelsen på fjella foran oss.
 
 > Det ser faktisk ut som et postkort.
 > -Sondre som har sett Cerro Chalten for første gang
@@ -110,7 +110,7 @@ Vel på den andre siden av breen har vi valgt en rute rett opp til ryggen, og gi
 
 Nede igjen ved Paso Superior tar vi nok en rast. Klokka er ikke så mange og vi har nå etablert at vi har ganske god tid til å komme oss ned til camp. Vi møter 3 spanjoler på vei opp, hvor den ene har mistet solbrillene sine. Jeg gir ham mine, da vi er på vei ned fra breen, og han nok trenger de mer enn meg. En time senere finner vi brillene hans ved en av rappellene, og karmaen slår inn når vi kommer ned i camp; tsjekkerne har etterlatt 2 porsjonspakker med gourmetkaffe til oss! Veien ned tilbake til Chalten føles allerede mye lettere. 
 
-Vi blir sittende veldig lenge i sola, trygt nede fra breen, for det som ble siste gang i det alpine for oss for denne gang. Begge er vi enige om at vi har fått god uttelling for turen, og at vi har lært mye om oss selv og hverandre. For anledningens skyld lot jeg meg til og med overtale til å bade i brevannet, og å svømme blant isklumpene som duppet rundt. Takknemlig for at vi kom trygt ned (og for min skyld, opp av vannet) lunter vi ned igjen til El Chalten, denne underlige men utrolige byen midt ute i den argentinske ødemarka.
+Vi blir sittende veldig lenge i sola, trygt nede fra breen, for det som ble siste gang i det alpine for oss for denne gang. Begge er vi enige om at vi har fått god uttelling for turen, og at vi har lært mye om oss selv og hverandre. For anledningens skyld lot jeg meg overtale til å bade i brevannet, og å svømme blant isklumpene som duppet rundt. Der fant jeg endelig den salige roen som venter i slutten av et vellykket eventyr. Takknemlig for at vi kom trygt ned (og for min skyld, opp av vannet) lunter vi ned igjen til El Chalten, denne underlige men utrolige byen midt ute i den argentinske ødemarka.
 
 {{< gallery
     match="images/04-*"
