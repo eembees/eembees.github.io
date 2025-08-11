@@ -18,7 +18,7 @@ Bildelenke |[03-05-1-magnus-dunis.jpg](https://mags.nu/travel/patagonia-2-chalte
 
 ![Meg på Aguja Guillamet, etter å ha kommet over cruxet i god behold.](https://mags.nu/travel/patagonia-2-chalten/images/03-05-1-magnus-dunis.jpg)
 
-![Jeg kokkelerer bursdagsbiff til Sondre under Cerro Chalten.](https://mags.nu/travel/patagonia-2-chalten/images/04-05-bursdagsbiff.jpg)
+![Jeg kokkelerer bursdagsbiff til Sondre under Cerro Chalten.](https://mags.nu/travel/patagonia-2-chalten/images/04-05-bursdagsbiff.jpeg)
 
 ## Om meg, mitt forhold til alpinklatring, og min motivasjon for opptak i NTK.
 
