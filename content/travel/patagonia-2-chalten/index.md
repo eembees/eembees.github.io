@@ -21,7 +21,7 @@ Vi ankom El Chalten midt imellom to værvinduer - jule-vinduet hadde vart 6 dage
 
 ## 1.1 Østveggen på Aguja de l'S 
 
-To dager senere, nyttårsaften, var et nytt værvindu åpnet og vi hadde satt målet til Aguja de l'S, på sydsiden av Chalten-massivet. Østveggen, _Cara Este_, involverer en blanding mellom klatring og klyving opp til 5+. Ivrige etter å se disse fjella på nært hold trøkka vi opp turstien, og småjogga forbi fotturister som også var ute og nyte finværet. Da vi kom til det første utkikkspunktet ble vi imidlertid stående målløse av størrelsen på fjella foran oss.
+To dager senere, nyttårsaften, var et nytt værvindu åpnet og vi hadde satt målet til Aguja de l'S, på sydsiden av Chalten-massivet. Østveggen, _Cara Este_, involverer en blanding mellom klatring og klyving opp til 5+, med et tidlig crux på 6a. Ivrige etter å se disse fjella på nært hold trøkka vi opp turstien, og småjogga forbi fotturister som også var ute og nyte finværet. Da vi kom til det første utkikkspunktet ble vi imidlertid stående målløse av størrelsen på fjella foran oss.
 
 > Det ser faktisk ut som et postkort.
 > -Sondre som har sett Cerro Chalten for første gang
