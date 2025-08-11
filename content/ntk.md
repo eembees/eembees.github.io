@@ -26,25 +26,25 @@ Jeg er en energisk og motivert fjellklatrer, som søker inn i Tindeklubben for �
 
 Da jeg flyttet til Danmark for studier, ble klatring min måte å søke eventyr utenfor byen. 
 Igjennom årene har jeg søkt utfordringer, fra buldring til cragging og videre til naturlige sikringer, og funnet mye glede i lange turer i bratt terreng. 
-I takt med at interessesfæren har utvidet seg, vokste turene til sydsvenske buldrefelt seg til helgeturer til Bohus, ukesturer til Spania, og sommerferier i Chamonix. I 2023 flyttet jeg et halvår til Bodø for å bli bedre kjent med fjellklatringsmiljøet i Nord-Norge, og jeg fikk mange gode opplevelser der. Eventyrlysten var imidlertid ikke mettet, og våren 2024 sa jeg opp jobben for å sykle til Lofoten og bruke sommeren der, inspirert av Ecopoint-bevegelsen i Frankrike - å transportere seg til og fra fjellet med "fair means" - sykkel, tog, ferge, og buss, men ikke fly eller bil. Etter en høst preget av mange turer til Bohus, Chamonix, og Hurrungane, fikk jeg muligheten til å reise til Argentina på klatretur, for å oppleve Andesfjella.
+I takt med at interessesfæren har utvidet seg, vokste dagsturene til sydsvenske buldrefelt seg til helgeturer til Bohus, ukesturer til Spania, og sommerferier i Chamonix. I 2023 flyttet jeg et halvår til Bodø for å bli bedre kjent med fjellklatringsmiljøet i Nord-Norge, og jeg fikk mange gode opplevelser der. Eventyrlysten var imidlertid ikke mettet, og våren 2024 sa jeg opp jobben for å sykle til Lofoten og bruke sommeren der, inspirert av Ecopoint-bevegelsen i Frankrike - å transportere seg til og fra fjellet med "fair means" - sykkel, tog, ferge, og buss, men ikke fly eller bil. Etter en høst preget av mange turer til Bohus, Chamonix, og Hurrungane, fikk jeg muligheten til å reise til Argentina på klatretur, for å oppleve Andesfjella.
 Denne turen preget for alvor min tilgang til risikovurdering i fjellene, da vi på flere tidspunkter hadde opplevelser hvor ting kunne gått galt. 
 
 For meg er alpinklatring det mest fullendte eventyret man kan begi seg ut på. 
 Den konstante endringen i fjellets vær, snø- og breforhold, krever en årvåkenhet, tilstedeværelse og ydmykhet som ikke kan fostres andre steder. 
-Nærværet og ydmykheten er alltid med meg i etterkant av en fjelltur, og fortsetter å søke denne sinnstilstanden i klatringen. 
-De turene jeg er stoltest av i ettertid, er derfor de som har blitt avbrutt nær toppen på grunn av objektiv risiko, fordi de har krevd et oppgjør med målet om å nå toppen, og en mentalitetsendring om at veien er målet. 
+Nærværet og ydmykheten er alltid med meg i etterkant av en fjelltur, og denne sinnstilstanden er en stor grunn til at jeg forsetter å oppsøke klatring. 
+De turene jeg er stoltest av i ettertid, er derfor de som har blitt avbrutt nær toppen på grunn av objektiv risiko, fordi de har krevd et oppgjør med målet om å nå toppen, og en mentalitetsendring til at veien er målet. 
 Jeg har utvalgt turer som gjenspeiler denne mentaliteten, siden jeg i NTK håper å møte andre som ser verden og sporten på samme måte. 
 
 Å dele opplevelser og erfaringer i fjellene har i de siste åra blitt viktigere for meg. 
 Av den grunn har jeg begynt å skrive [reiseberetninger](https://mags.nu/travel/) fra noen av turene mine, der jeg føler jeg har noe å dele med andre. 
 I den forstand det er mulig, forsøker jeg i disse å formidle eventyrlysten og spenningen i turene fremfor spesifikk ruteinformasjon, for å unngå å spolere andres eventyr.
-Da jeg satt i Argentina i vinter, lurte jeg fælt på hvorfor jeg ikke fant andre nordmenn i El Chalten, og jeg har et håp om at mine turerfaringer kan være nyttige for andre som kanskje vil utforske samme områder - og at de kan bidra til at jeg kan få andre med på tur. 
-Etter å ha diskutert dette med mine venner i Tindeklubben, har jeg fått et inntrykk av at dette tankesettet er fremtredende også i NTK, og jeg søker derfor inn.
+I en av mange regnværsdager i Argentina lurte jeg på hvorfor jeg ikke fant andre nordmenn i El Chalten, og jeg håper at mine turerfaringer kan være nyttige for andre som kanskje vil utforske samme områder - og at de kan bidra til at jeg kan få andre med på tur. 
+Etter å ha diskutert dette med mine venner i Tindeklubben, har jeg fått et inntrykk av at dette tankesettet er fremtredende også i NTK, og jeg søker derfor opptak for å være med å fremme denne kulturen i norsk fjellsport.
 
 
 
-## Liste over Turer
-Utvalg over turer, flere kan oppgis hvis det er noe som skurrer.
+## Liste over utvalgte fjellturer
+Flere bestigninger kan oppgis hvis ønskelig. 
 
 |  Navn på klatreruta |   Fjell/område |   Klatrepartner(e) |   Vekselledet eller klatret på annen måte |   Lengde på rute |   Grad på rute |   Når på året |   I hvilket år ruta ble klatret |   Evt. spesielle forhold under bestigningen |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
