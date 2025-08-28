@@ -1,8 +1,8 @@
-+++
+---
 title = 'Søknad til NTK'
 date = 2025-08-11T08:08:31+02:00
 draft = false
-+++
+---
 # Søknad Om Medlemskap i Norsk Tindeklub
 
 ## Personalia
@@ -14,11 +14,10 @@ Fødselsdato | 24.05.97 i Trondheim
 Adresse | Vølundsgade 14B, St. Th. </br> 2200 København S
 Epost | climb@mags.nu
 Telefon | 94809960
-Bildelenke |[03-05-1-magnus-dunis.jpg](https://mags.nu/travel/patagonia-2-chalten/images/03-05-1-magnus-dunis.jpg)
 
-![Meg på Aguja Guillamet, etter å ha kommet over cruxet i god behold.](https://mags.nu/travel/patagonia-2-chalten/images/03-05-1-magnus-dunis.jpg)
+<img src="https://mags.nu/travel/patagonia-2-chalten/images/03-05-1-magnus-dunis.jpg" alt="Meg på Aguja Guillamet, etter å ha kommet over cruxet i god behold." style="zoom:15%;" />
 
-![Jeg kokkelerer bursdagsbiff til Sondre under Cerro Chalten.](https://mags.nu/travel/patagonia-2-chalten/images/04-05-bursdagsbiff.jpeg)
+
 
 ## Om meg, mitt forhold til alpinklatring, og min motivasjon for opptak i NTK.
 
@@ -47,19 +46,20 @@ Etter å ha diskutert dette med mine venner i Tindeklubben, har jeg fått et inn
 Flere bestigninger kan oppgis hvis ønskelig. 
 
 |  Navn på klatreruta |   Fjell/område |   Klatrepartner(e) |   Vekselledet eller klatret på annen måte |   Lengde på rute |   Grad på rute |   Når på året |   I hvilket år ruta ble klatret |   Evt. spesielle forhold under bestigningen |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Rebuffat-Baquet: Eperon des Cosmiques + Arete des Cosmiques | Chamonix | Nikolaj Mejsner | Vekselled | 400m | 6a | Juni | 2021 | første gang i alpint terreng |
-| Aiguille du Moine,  Arête S Classique  | Chamonix | Paul T Loomis | 725 m | Vekselled(løpende, led crux) | Juli | 2022 | |
-| Jord, Juks, og Jentetanker, Mulstrandtind | Bodø | Espen Kringlen | Vekselled | 3 t.l. | N5 | Juni | 2023 | Eventyrlig moseklatring på god vinterrute i sommerforhold | 
-| Breitind & Trolltind | Kjerringøy | Ine Østmo | ledet alt, løpende og noe pitching | 20 timer bil til bil | Juni | 2023 | utmarsjstien var dekt i snø og våt, så vi reverserte ryggtraversen i stedet. [Se fører her](https://isklatring.no/bodo/Fjellruter_Bodo_2024.pdf) |
+| Aiguille du Moine,  Arête S Classique  | Chamonix | Paul T Loomis | Vekselled | 725 m | Vekselled(løpende, led crux) | Juli | 2022 | |
+| Jord, Juks, og Jentetanker, Mulstrandtind | Bodø | Espen Kringlen | Vekselled | 3 t.l. | N5 | Juni | 2023 | Eventyrlig moseklatring på god vinterrute i sommerforhold |
+| Breitind & Trolltind | Kjerringøy | Ine Østmo | ledet alt, løpende og noe pitching | 20 timer bil til bil | N4+ | Juni | 2023 | utmarsjstien var dekt i snø og våt, så vi reverserte ryggtraversen i stedet. [Se fører her](https://isklatring.no/bodo/Fjellruter_Bodo_2024.pdf) |
 | Sydpilaren, Stetind| Narvik | Ine Østmo | Blokkledet 1. og 2. tredjedel | 12 tl | N6- |  Juni | 2023 | |
 | Råna | Lofoten | Anja Clark | Ledet |300m|N6 |August |2023| |
 | Østkammen Kugelhorn + Sildpolltind | Narvik | Karoline Lillevik | Ledet løpende | 300m | N5- | Juni | 2024| |
-| Korstoget/Reisen linkup | Presten, Lofoten | Cornelius E.B. | Vekselledet, ledet crux | 9 t.l. |
+| Korstoget/Reisen linkup | Presten, Lofoten | Cornelius E.B. | Vekselledet, ledet crux | 9 t.l. |N7|Juli|2024||
 | Store Skagastølstind via Skagastølsryggen | Hurrungane | Nils Desch & Veronica Melen | Ledet crux, noe rygg | | 4 | September  | 2024 | [Bloggpost om turen](https://mags.nu/travel/storen-sep-24/) |
 | Papillon Arete, Aiguille du Peigne | Chamonix | Sondre Brattlien & Simon Sjokvist | Blokkledet første og siste tredjedel | 8 tl | 5c | Oktober | 2024 | [Bloggpost om turen til Chamonix](https://mags.nu/travel/chamonix-oct-24/) |
 | Torre Principal | Bariloche, Argentina | Sondre Brattlien | Vekselledet | 5 t.l. | 6a | Desember | 2024 | [Bloggpost om turen til Frey](https://mags.nu/travel/patagonia-1-frey/) |
-| Østveggen på Aguja de l'S | El Chalten |  Sondre Brattlien | Vekselledet | 6 t.l. + 300m løpende | 6a | Januar | 2025 | [Bloggpost om turen til Chalten](https://mags.nu/travel/patagonia-2-chalten) |
+| Østveggen på Aguja de l'S | El Chalten |  Sondre Brattlien | Vekselledet | 6 t.l. + 300m løpende | 6a | Januar | 2025 | Falt i en bresprekk ved første brekrysning. Tilsvarende krevende krysning tilbake. [Bloggpost om turen til Chalten](https://mags.nu/travel/patagonia-2-chalten) |
 | Frader Pisafe, El Mocho | El Chalten | Sondre Brattlien | Vekselledet | 400m | 6c+ | Januar | 2025 | Minus siste (5+) taulengde før rapell grunnet for mye snøsmelting og tilsvarende løs stein på ruta. [Bloggpost om turen til Chalten](https://mags.nu/travel/patagonia-2-chalten) |
-| Brenner-Moschioni, Aguja Guillamet | El Chalten |  Sondre Brattlien | Vekselledet | 800m (?)|  6b+ | Januar | 2025 | [Bloggpost om turen til Chalten](https://mags.nu/travel/patagonia-2-chalten) |
+| Brenner-Moschioni, Aguja Guillamet | El Chalten |  Sondre Brattlien | Vekselledet, ledet crux | 800m (?)|  6b+ | Januar | 2025 | [Bloggpost om turen til Chalten](https://mags.nu/travel/patagonia-2-chalten) |
 | Storpillaren, Vågakallen | Lofoten  | Sondre Brattlien og Daniel Sandneseng | Blokkledet ca. ~50% av ruta | 16 t.l. | N7 | Juli | 2025 | 2 fall: 4, 5 t.l.  |
+| Sydlige Dyrhaugstind via Sørveggen fra Tønsbergs Hylle | Hurrungane | Vilde Halsen | Swapledet 2. og 4. tl | ca. 5 t.l. | N6 | August | 2025 | Veldig mosete og gjengrodd rute. |
