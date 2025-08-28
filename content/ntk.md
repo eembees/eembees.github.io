@@ -15,7 +15,7 @@ Adresse | Vølundsgade 14B, St. Th. </br> 2200 København S
 Epost | climb@mags.nu
 Telefon | 94809960
 
-<img src="https://mags.nu/travel/patagonia-2-chalten/images/03-05-1-magnus-dunis.jpg" alt="Meg på Aguja Guillamet, etter å ha kommet over cruxet i god behold." style="zoom:15%;" />
+![Meg på Aguja Guillamet, etter å ha kommet over cruxet i god behold.](https://mags.nu/travel/patagonia-2-chalten/images/03-05-1-magnus-dunis.jpg)
 
 
 
