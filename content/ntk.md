@@ -1,8 +1,8 @@
----
++++
 title = 'Søknad til NTK'
 date = 2025-08-11T08:08:31+02:00
 draft = false
----
++++
 # Søknad Om Medlemskap i Norsk Tindeklub
 
 ## Personalia
