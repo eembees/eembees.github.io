@@ -76,4 +76,10 @@ Skygge på klatringa og sol på rapellen er vel mer enn de fleste kan be om på 
 
 ## 1.2 Barrah Canyon og Ørkentur.
 
+Atter en gang våkner jeg lenge før alarmen, med et drøm om tykkere vegger og nabohanen på middagsbordet. Vi pakker de siste sakene og humper 45 minutter ut i ørkenen til Barrah-dalen, en klatrers drøm - fast sandsteinklatring, lange taulengder, og ingen hane i nærheten. 
+
+Første klatring er Merlins Wand - 5 taulengder opp en nordvendt, sammenhengende sprekk. 
+
+
+
 « » 
