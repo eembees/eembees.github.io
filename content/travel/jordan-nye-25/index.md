@@ -74,7 +74,7 @@ Skygge på klatringa og sol på rapellen er vel mer enn de fleste kan be om på 
 
 
 
-## 1.2 Ørkentur i Barrah Canyon
+## 2.1 Ørkentur i Barrah Canyon
 
 Atter en gang våkner jeg lenge før alarmen, med et drøm om tykkere vegger og nabohanen på middagsbordet. Vi pakker de siste sakene og humper 45 minutter ut i ørkenen til Barrah-dalen, en klatrers drøm - fast sandsteinklatring, lange taulengder, og ingen hane innen hørevidde. 
 
@@ -86,6 +86,26 @@ Vi når å kveile tauet i det solen går ned, og peiler oss inn på ørkencampen
 
 Langt fra både minaretens bønnerop og landsbyens hanegal våkner vi halv åtte - langt på dag og lenge etter soloppgang. Etter ganske få dikkedarer legger Johannes og jeg beina på nakken og pekte snuten mot «The Star of Abu Judaidah» ([fører](https://www.lanochedelloro.es/wp-content/uploads/2020/02/16Stars.jpg)) - en perle av en rute som også oppstår i *Parois de Légende* av Arnaud Petite - og et klart must for alle som besøker Wadi Rum. Ruta følger et sprekksystem i 7 fantastiske t.l. og en sandete t.l. til topps. 
 
-Johannes fikk første 3-tl. blokk, og jeg fikk lov til å følge ham opp cruxet - en hard, dynamisk bevegelse over 2 bolter (gudskjelov) til en kant, og svaklatring videre oppover. Når det går over til min blokk er jeg heldigvis godt varm. 6. t.l. har en morsomt svasekvens på 8-10 meter uten særlige sikringsmuligheter, hvor et fall risikerer enten en pendel inn i en kamin, eller et fall ned til stand igjen - pest eller kolera, med andre ord. Men lett skjelvende ben og tungt pumpende underarmer klipper jeg meg inn i stand og gir ledet på 7. t.l. til Johannes. Mens Johannes kjemper seg igjennom håndsprekken og diederet over klarer jeg akkurat å lene meg langt nok tilbake til å kjenne solstrålene på ryggen. En øyeblikkelig klarhet senker seg over meg, og jeg tenker at mer enn dette trenger man ikke her i verden. I en salig lykkerus følger jeg Johannes opp til stand, karrer meg opp den siste t.l. (ikke verdt å repetere), og vi rappellerer ned igjen. Idet vi kaster tauet ser vi «Vestlandstaulaget»  Emil, Noralf og Synne gå i gang med 7. t.l., til stor underholdning for oss. Med god tid spiser vi lunsj mens vi ser Emil jobbe seg oppover, og kommer raskt ned resten av ruta. Johannes går over til ørkecampen for å vente på Atayek mens jeg legger meg bak en stein og spiller munnspill mens jeg venter på Vestlendingene. Vel tilbake i Wadi Rum er menyen som før - kylling og ris.  
+Johannes fikk første 3-tl. blokk, og jeg fikk lov til å følge ham opp cruxet - en hard, dynamisk bevegelse over 2 bolter (gudskjelov) til en kant, og svaklatring videre oppover. Når det går over til min blokk er jeg heldigvis godt varm. 6. t.l. har en morsomt svasekvens på 8-10 meter uten særlige sikringsmuligheter, hvor et fall risikerer enten en pendel inn i en kamin, eller et fall ned til stand igjen - pest eller kolera, med andre ord. Atter en gang her i Jordan ender jeg med lett skjelvende ben og tungt pumpede underarmer ved stand, og gir ledet på 7. t.l. til Johannes. Mens han kjemper seg igjennom håndsprekken og diederet over klarer jeg akkurat å lene meg langt nok tilbake til å kjenne solstrålene på ryggen. En øyeblikkelig klarhet senker seg over meg, og jeg tenker at mer enn dette trenger man ikke her i verden. I en salig lykkerus følger jeg Johannes opp til stand, karrer meg opp den siste t.l. (ikke verdt å repetere), og vi rappellerer ned igjen. 
+
+Idet vi kaster tauet ser vi «Vestlandstaulaget»  Emil, Noralf og Synne gå i gang med 7. t.l., til stor underholdning for oss. Med god tid spiser vi lunsj mens vi ser Emil jobbe seg oppover, og kommer raskt ned resten av ruta. Johannes går over til ørkecampen for å vente på Atayek mens jeg legger meg bak en stein og spiller munnspill mens jeg venter på Vestlendingene. Vel tilbake i Wadi Rum er menyen som før - kylling og ris.  
+
+
+
+## Oversikt
+
+Dag   | Rute                         | Partnere
+------|------------------------------|-----------------
+27.12 | Flight of Fancy              | Vilde & Gunnhild
+29.12 | Black Magic                  | Vilde & Gunnhild
+30.12 | Diedro Ida / Placa de Vuelta | Vilde & Gunnhild
+31.12 | The Beauty                   | Vilde & Gunnhild
+2.1   | Merlins Wand                 | Vilde
+3.1   | Star of Abu Judaidah         | Johannes
+5.1   | Troubadour                   | Vilde & Gunnhild
+6.1   | Au Gres du Vent              | Vilde
+8.1   | Mendian Gora                 | Synne og Jon
+
+
 
 « » 
