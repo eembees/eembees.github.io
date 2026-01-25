@@ -42,9 +42,9 @@ Alarmen går halv sju, og jeg er raskt på benene. Utrolig gira på å prøve ut
 
 ## 29.12 - *Black Magic* på Jebel Rum
 
-Taktfaste og målrettede marsjerer Vilde, Gunnhild, og jeg opp mot innsteget på den lokale steinknausen, Jebel Rum, hvor vi skal gå superklassikeren "Black Magic". Hellet er med meg i dag, og jeg får lov til å starte. Nærmest flytende etter regnets tvungne hviledag går de første 4 taulengdene så raskt at jeg nesten angrer på at jeg ikke tok meg bedre tid. Da er min oppgave for dagen ferdig, og på standplass kommer Gunnhild opp med vann og snacks til meg, mens hun gjør seg klar til å gå cruxet. Hun løser det uten problemer, og vi beveger oss raskt opp videre. Vilde sine to siste taulengder går så raskt at man skulle tro det var like velsikret som i Bohus - men som andremann bevitner jeg fort at sikringsmulighetene på siste taulengde var få. De første rapellene går så smurt at jeg rekker å si at « Dette gikk da mye bedre enn forventet! »
+Taktfaste og målrettede marsjerer Vilde, Gunnhild, og jeg opp mot innsteget på den lokale steinknausen, Jebel Rum, hvor vi skal gå superklassikeren "Black Magic". Hellet er med meg i dag, og jeg får lov til å starte. Nærmest flytende etter regnets tvungne hviledag går de første 4 taulengdene så raskt at jeg nesten angrer på at jeg ikke tok meg bedre tid. Da er min oppgave for dagen ferdig, og på standplass kommer Gunnhild opp med vann og snacks til meg, mens hun gjør seg klar til å gå cruxet. Hun løser det uten problemer, og vi beveger oss raskt opp videre. Vilde sine to siste taulengder går så raskt at man skulle tro det var like velsikret som i Bohus - men som andremann bevitner jeg fort at sikringsmulighetene på siste taulengde var få. De første rappellene går så smurt at jeg rekker å si at « Dette gikk da mye bedre enn forventet! »
 
-Like etter prøver vi å linke to rapeller for å spare tid - og dette overmotet ble belønnet med alle klatreres nemesis - fastkilte tau. Etter mye kaving, hvor alle 3 henger vekta si ned i tauet, må vi konstatere at hellet er  brukt opp nå - tauet sitter like fast som en overkammet tricam. Gunnhild, djerv som Minerva, gikk prompte klemknutegang opp igjen, og løsnet tauet - Vilde og jeg kunne bare stå og måpe. Med beina godt planta på bakken gikk vi forsiktig tilbake til innsteget, hvor Atayeks blide forlykter møtte oss. «Are you ok my friends? Dinner is ready at home. Chicken with rice today.» 
+Like etter prøver vi å linke to rappeller for å spare tid - og dette overmotet ble belønnet med alle klatreres nemesis - fastkilte tau. Etter mye kaving, hvor alle 3 henger vekta si ned i tauet, må vi konstatere at hellet er  brukt opp nå - tauet sitter like fast som en overkammet tricam. Gunnhild, djerv som Minerva, gikk prompte klemknutegang opp igjen, og løsnet tauet - Vilde og jeg kunne bare stå og måpe. Med beina godt planta på bakken gikk vi forsiktig tilbake til innsteget, hvor Atayeks blide forlykter møtte oss. «Are you ok my friends? Dinner is ready at home. Chicken with rice today.» 
 
 
 
@@ -64,25 +64,37 @@ Vi ble ferdige før tid, og apostlenes hester tar oss langsomt tilbake over ørk
 
 ## 31.12 - The Beauty
 
-I morges sto jeg opp halv seks - en halvtime før alarmen vår. Ikke fordi det ligger i min natur, eller fordi jeg synes det er en plikt å innføre den alpine starten i den arabiske klatringen, men simpelthen fordi nabohanens ivrige morgensang var så intens at jeg ikke holdt det ut lenger. Følgelig fikk jeg muligheten til å forberede morgenkaffe til Vilde og Gunnhild - selvfølgelig iblandet store mengder kardemomme for å maskere den faktiske smaken av kaffe. Planen for dagen er å klatre "The Beauty" - som tilsynelatende skulle ha mindre porøs stein enn rutene vi har gått de siste par dagene. Vi undrer oss over at deler av reisefølget har valgt nyttårsaften som hviledag. Dem om det.
+{{< gallery
+    match="images/031-*"
+    sortOrder="asc"
+    rowHeight="150"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
 
-Atayek, sier han skal kjøre samme vei, og tilbyr oss å sitte på lasteplanet på vei bortover. Vi takker ja, under mistanken om at han egentlig ikke skal samme vei, og blir bekreftet idet han slipper oss av og kjører tilbake til huset. Innmarsjen er en labyrint av bratte gallerier og smale passasjer, men som Ariadne selv guidet Gunnhild oss uanfektet til innsteget. Jeg vant stein-saks-papir og fikk første led, et kunstverk av et hjørne med gode sikringer hele veien. Lett pumpet får jeg damene til standplass, og den neste t.l. er en drøm - velsikret kamin- og håndjammer i 30 meter - det er nesten vemodig å komme på stand, nå mine led er overstått. Glad for å slippe cruxet overleverer jeg ledet til Gunnhild - "Bissa", som vi kaller henne.
+I morges sto jeg opp halv seks - en halvtime før alarmen vår. Ikke fordi det ligger i min natur, eller fordi jeg synes det er en plikt å innføre den alpine starten i arabisk klatringen, men simpelthen fordi nabohanens ivrige morgensang var så intens at jeg ikke holdt det ut lenger. Følgelig fikk jeg muligheten til å forberede morgenkaffe til Vilde og Gunnhild - selvfølgelig iblandet store mengder kardemomme for å maskere den faktiske smaken av kaffe. Planen for dagen er å klatre "The Beauty" - som tilsynelatende skulle ha mindre porøs stein enn rutene vi har gått de siste par dagene. Vi undrer oss over at deler av reisefølget har valgt nyttårsaften som hviledag. Dem om det.
 
- "Bissa" er ergerlig god til å klatre, og flyter uanfektet gjennom de 7 bevegelsene i cruxet. « Det e akkurat sånn ej hadde håpt! » Med ærefrykt ovenfor Bissa komplimenterer vi dette sterke ledet, overbevist om at vi ikke kunne gjort det selv. Vilde kvitterer med et like imponerende led opp en offwidth-skvis-kamin. 15 minutter senere har vi scramblet til toppen og nyter utsikten ut over den uendelige ørkenen. Idet vi snur titter sola frem, og vestveggen er badet i sollys hele veien ned.
+Atayek sier han skal kjøre samme vei, og tilbyr oss å sitte på lasteplanet på vei bortover. Vi takker ja, under mistanken om at han egentlig ikke skal samme vei, og blir bekreftet idet han slipper oss av og kjører tilbake til huset. Innmarsjen er en labyrint av bratte gallerier og smale passasjer, men som Ariadne selv guidet Gunnhild oss uanfektet til innsteget. Jeg vant stein-saks-papir og fikk første led, et kunstverk av et hjørne med gode sikringer hele veien. Lett pumpet får jeg damene til standplass, og den neste t.l. er en drøm - velsikret kamin- og håndjammer i 30 meter - det er nesten vemodig å komme på stand, nå mine led er overstått. Glad for å slippe cruxet overleverer jeg ledet til Gunnhild - "Bissa", som vi kaller henne.
 
-Skygge på klatringa og sol på rapellen er vel mer enn de fleste kan be om på årets siste dag. Fornøyde trasker vi inn i Atayeks varme oppholdsrom akkurat idet hviledags-gjengen har kommet hjem fra byturen - med pils og glade nyheter! Våre venner har ved Rødehavets solnedgang blitt forlovet - de har altså ikke kastet bort hviledagen. Nyttårs- og lykkeønskene er mange hos de 20 klatrerne som feirer nyttår hos Atayek i kveld, langt ute i Ødemarka. 
+"Bissa" er ergerlig god til å klatre, og flyter uanfektet gjennom de 7 bevegelsene i cruxet. « Det e akkurat sånn ej hadde håpt! » Med ærefrykt ovenfor Bissa komplimenterer vi dette sterke ledet, overbevist om at vi ikke kunne gjort det selv. Vilde kvitterer med et like imponerende led opp en offwidth-skvis-kamin. 15 minutter senere har vi scramblet til toppen og nyter utsikten ut over den uendelige ørkenen. Idet vi snur titter sola frem, og vestveggen er badet i sollys hele veien ned.
 
+Skygge på klatringa og sol på rappellen er vel mer enn de fleste kan be om på årets siste dag. Fornøyde trasker vi inn i Atayeks varme oppholdsrom akkurat idet hviledags-gjengen har kommet hjem fra byturen - med pils og glade nyheter! Våre venner har ved Rødehavets solnedgang blitt forlovet - de har altså ikke kastet bort hviledagen. Nyttårs- og lykkeønskene er mange hos de 20 klatrerne som feirer nyttår hos Atayek i kveld, langt ute i ørkenen. 
 
 
 ## 2.1 Ørkentur i Barrah Canyon
 
 Atter en gang våkner jeg lenge før alarmen, med et drøm om tykkere vegger og nabohanen på middagsbordet. Vi pakker de siste sakene og humper 45 minutter ut i ørkenen til Barrah-dalen, en klatrers drøm - fast sandsteinklatring, lange taulengder, og ingen hane innen hørevidde. 
 
-Første klatring er Merlins Wand - 5 taulengder opp en nordvendt, sammenhengende sprekk. Skyggeklatring er nemlig optimalt, selv på vinterstid, hvor det "bare" er 20 grader om dagen. 
+Første klatring er Merlins Wand - 5 taulengder opp en nordvendt, sammenhengende sprekk. Skyggeklatring er nemlig optimalt, selv på vinterstid, hvor det "bare" er 20 grader om dagen. Jeg får første blokk og er godt fornøyd med rutefinningen her - på tross av fottak som smuldrer opp under meg er det fantastisk å klatre i en rett sprekk hele veien. Vilde tar andre blokk, opp til og forbi «Allahs Øye», en hule på størrelse med en vanlig Osloleilighet til under 3 mill. I likhet med en slik studentbolig er utsikten og beliggenheten optimal, men innskrenketheten og den stramme duften av urin gjør at vi fort beveger oss videre oppover. Vilde går imponerende rett opp det guideboken beskriver som et «lett beskyttet sva» - altså lett som i knapt, ikke enkelt. Vi når toppen og ser endelig hvor langt ute i ørkenen vi faktisk er. Det er fint å se, endog en påminnelse om hvor alene vi er hvis noe skulle gå galt. Jeg sjekker knuta en ekstra gang før vi rappellerer ned. 
 
-TBW
 
 Vi når å kveile tauet i det solen går ned, og peiler oss inn på ørkencampen, mens vi omhyggelig plukker ørkenbunnen rein for drivved til bålet. Etter et salig strev for å lokalisere en lighter får vi gang i bålet, og da mørket senket seg var det kun turbanene våre som avslørte at vi ikke satt på en sandstrand i Norge. Ut av tussmørket kommer Atayek i Hiluxen med middagen - lammekjøttboller! - og en bløtkake til de nyforlovede. Når Hiluxens dur forsvinner ut i ørkenmørket, ligger jeg allerede i posen. Jeg lukker øynene i den gjennomtrengende stillheten og drømmer om å ri kameler gjennom Nordre gate i Trondheim.
+
+## 3.1 Star of Abu Judaidah i Barrah Canyon
 
 Langt fra både minaretens bønnerop og landsbyens hanegal våkner vi halv åtte - langt på dag og lenge etter soloppgang. Etter ganske få dikkedarer legger Johannes og jeg beina på nakken og pekte snuten mot «The Star of Abu Judaidah» ([fører](https://www.lanochedelloro.es/wp-content/uploads/2020/02/16Stars.jpg)) - en perle av en rute som også oppstår i *Parois de Légende* av Arnaud Petite - og et klart must for alle som besøker Wadi Rum. Ruta følger et sprekksystem i 7 fantastiske t.l. og en sandete t.l. til topps. 
 
@@ -109,3 +121,17 @@ Dag   | Rute                         | Partnere
 
 
 « » 
+
+
+## Alle bilder
+
+{{< gallery
+    match="images/*"
+    sortOrder="asc"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="hide"
+>}}
