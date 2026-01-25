@@ -2,7 +2,7 @@
 title = 'Wadi Rum - Nyttårsturen 25-26 🇯🇴'
 date = 2026-01-12T10:56:44+01:00
 draft = false
-listed = false
+
 +++
 
 > Etter årets ekspedisjon ble amputert av budsjett- og feriedagsmessige årsaker, falt valget for nyttårsturen på Wadi Rum i Jordan. Da vinterklatresesongen startet booket Vilde og jeg billetter, for å skifte ut is av varierende bruddfasthet med sandstein av varierende bruddfasthet. Flere slang seg på, og før vi visste ordet av det var 13 mennesker med på laget.
@@ -34,7 +34,7 @@ Middagen hadde kona i huset, Amina, stelt i stand mens vi tøyset rundt; kylling
 
 ---
 
-Alarmen går halv sju, og jeg er raskt på benene. Utrolig gira på å prøve ut et nytt fjellområde, og med en selvsikkerhet som avspeiler at hjernen ikke helt er våknet enda, flipper jeg teltduken opp til mitt første møte med ørkenregn. Slik regn har karakter som foreldrene til barneskolevenner, 20 år senere - de annonserer sin ankomst på helt feil tidspunkt og blir så lenge at man langsomt innser at man ikke kommer til å få gjort noe vettugt i dag. Heldigvis er morgenbordet dekket - flatbrød, hummus, labneh, grønnsaker, Nutella, Za'atar, og kremost. Vi eksperimenterer lenge med å brygge den lokale kaffen på en måte som gir minst mulig kardemommesmak - uten særlig hell. Nederlaget på klatrefrontent åpner muligheten for å utforske shoppingmulighetene i byen. Atayeks lasteplan-taxi tar oss til nærmeste bruktbutikk, og vi kommer tilbake med turbanskjerf og kjortler, overbeviste om at ingen kan se forskjell på oss og de lokale. Vi kommer hjem til middag - kylling og ris. 
+Alarmen går halv sju, og jeg er raskt på benene. Utrolig gira på å prøve ut et nytt fjellområde, og med en selvsikkerhet som avspeiler at hjernen ikke helt er våknet enda, flipper jeg teltduken opp til mitt første møte med ørkenregn. Slik regn har karakter som foreldrene til barneskolevenner, 20 år senere - de annonserer sin ankomst på helt feil tidspunkt og blir så lenge at man langsomt innser at man ikke kommer til å få gjort noe vettugt i dag. Heldigvis er morgenbordet dekket - flatbrød, hummus, labneh, grønnsaker, Nutella, Za'atar, og kremost. Vi eksperimenterer lenge med å brygge den lokale kaffen på en måte som gir minst mulig kardemommesmak - uten særlig hell. Nederlaget på klatrefrontent åpner muligheten for å utforske shoppingmulighetene i byen, og benytter Atayeks lasteplan-taxi til nærmeste bruktbutikk. Vi forstod ikke hva innehaveren sa, og han forstod ikke hva vi sa, så alle parter var fornøyde med forhandlingene. Vi kommer tilbake til middag (kylling og ris) med turbanskjerf og kjortler, overbeviste om at ingen kan se forskjell på oss og de lokale. 
 
 
 
@@ -70,16 +70,22 @@ Atayek, sier han skal kjøre samme vei, og tilbyr oss å sitte på lasteplanet p
 
  "Bissa" er ergerlig god til å klatre, og flyter uanfektet gjennom de 7 bevegelsene i cruxet. « Det e akkurat sånn ej hadde håpt! » Med ærefrykt ovenfor Bissa komplimenterer vi dette sterke ledet, overbevist om at vi ikke kunne gjort det selv. Vilde kvitterer med et like imponerende led opp en offwidth-skvis-kamin. 15 minutter senere har vi scramblet til toppen og nyter utsikten ut over den uendelige ørkenen. Idet vi snur titter sola frem, og vestveggen er badet i sollys hele veien ned.
 
-Skygge på klatringa og sol på rapellen er vel mer enn de fleste kan be om på årets siste dag. Fornøyde trasker vi inn i Atayeks varme oppholdsrom akkurat idet hviledags-gjengen har kommet hjem fra byturen - med pils og glade nyheter! Våre venner har ved Rødehavets solnedgang blitt forlovet - de har altså ikke kastet bort hviledagen. Nyttårs- og lykkeønskene er mange hos de 20 klatrerne som feirer nyttår hos Atayek i kveld. 
+Skygge på klatringa og sol på rapellen er vel mer enn de fleste kan be om på årets siste dag. Fornøyde trasker vi inn i Atayeks varme oppholdsrom akkurat idet hviledags-gjengen har kommet hjem fra byturen - med pils og glade nyheter! Våre venner har ved Rødehavets solnedgang blitt forlovet - de har altså ikke kastet bort hviledagen. Nyttårs- og lykkeønskene er mange hos de 20 klatrerne som feirer nyttår hos Atayek i kveld, langt ute i Ødemarka. 
 
 
 
-## 1.2 Barrah Canyon og Ørkentur.
+## 1.2 Ørkentur i Barrah Canyon
 
-Atter en gang våkner jeg lenge før alarmen, med et drøm om tykkere vegger og nabohanen på middagsbordet. Vi pakker de siste sakene og humper 45 minutter ut i ørkenen til Barrah-dalen, en klatrers drøm - fast sandsteinklatring, lange taulengder, og ingen hane i nærheten. 
+Atter en gang våkner jeg lenge før alarmen, med et drøm om tykkere vegger og nabohanen på middagsbordet. Vi pakker de siste sakene og humper 45 minutter ut i ørkenen til Barrah-dalen, en klatrers drøm - fast sandsteinklatring, lange taulengder, og ingen hane innen hørevidde. 
 
-Første klatring er Merlins Wand - 5 taulengder opp en nordvendt, sammenhengende sprekk. 
+Første klatring er Merlins Wand - 5 taulengder opp en nordvendt, sammenhengende sprekk. Skyggeklatring er nemlig optimalt, selv på vinterstid, hvor det "bare" er 20 grader om dagen. 
 
+TBW
 
+Vi når å kveile tauet i det solen går ned, og peiler oss inn på ørkencampen, mens vi omhyggelig plukker ørkenbunnen rein for drivved til bålet. Etter et salig strev for å lokalisere en lighter får vi gang i bålet, og da mørket senket seg var det kun turbanene våre som avslørte at vi ikke satt på en sandstrand i Norge. Ut av tussmørket kommer Atayek i Hiluxen med middagen - lammekjøttboller! - og en bløtkake til de nyforlovede. Når Hiluxens dur forsvinner ut i ørkenmørket, ligger jeg allerede i posen. Jeg lukker øynene i den gjennomtrengende stillheten og drømmer om å ri kameler gjennom Nordre gate i Trondheim.
+
+Langt fra både minaretens bønnerop og landsbyens hanegal våkner vi halv åtte - langt på dag og lenge etter soloppgang. Etter ganske få dikkedarer legger Johannes og jeg beina på nakken og pekte snuten mot «The Star of Abu Judaidah» ([fører](https://www.lanochedelloro.es/wp-content/uploads/2020/02/16Stars.jpg)) - en perle av en rute som også oppstår i *Parois de Légende* av Arnaud Petite - og et klart must for alle som besøker Wadi Rum. Ruta følger et sprekksystem i 7 fantastiske t.l. og en sandete t.l. til topps. 
+
+Johannes fikk første 3-tl. blokk, og jeg fikk lov til å følge ham opp cruxet - en hard, dynamisk bevegelse over 2 bolter (gudskjelov) til en kant, og svaklatring videre oppover. Når det går over til min blokk er jeg heldigvis godt varm. 6. t.l. har en morsomt svasekvens på 8-10 meter uten særlige sikringsmuligheter, hvor et fall risikerer enten en pendel inn i en kamin, eller et fall ned til stand igjen - pest eller kolera, med andre ord. Men lett skjelvende ben og tungt pumpende underarmer klipper jeg meg inn i stand og gir ledet på 7. t.l. til Johannes. Mens Johannes kjemper seg igjennom håndsprekken og diederet over klarer jeg akkurat å lene meg langt nok tilbake til å kjenne solstrålene på ryggen. En øyeblikkelig klarhet senker seg over meg, og jeg tenker at mer enn dette trenger man ikke her i verden. I en salig lykkerus følger jeg Johannes opp til stand, karrer meg opp den siste t.l. (ikke verdt å repetere), og vi rappellerer ned igjen. Idet vi kaster tauet ser vi «Vestlandstaulaget»  Emil, Noralf og Synne gå i gang med 7. t.l., til stor underholdning for oss. Med god tid spiser vi lunsj mens vi ser Emil jobbe seg oppover, og kommer raskt ned resten av ruta. Johannes går over til ørkecampen for å vente på Atayek mens jeg legger meg bak en stein og spiller munnspill mens jeg venter på Vestlendingene. Vel tilbake i Wadi Rum er menyen som før - kylling og ris.  
 
 « » 
