@@ -2,7 +2,7 @@
 title = 'Wadi Rum - Nyttårsturen 25-26 🇯🇴'
 date = 2026-01-12T10:56:44+01:00
 draft = false
-listed = false
+listed = true
 +++
 
 > Etter årets ekspedisjon ble amputert av budsjett- og feriedagsmessige årsaker, falt valget for nyttårsturen på Wadi Rum i Jordan. Da vinterklatresesongen startet booket Vilde og jeg billetter, for å skifte ut is av varierende bruddfasthet med sandstein av varierende bruddfasthet. Flere slang seg på, og før vi visste ordet av det var 13 mennesker med på laget.
@@ -19,10 +19,13 @@ listed = false
   - Sovepose til hyttene og ørkenovernatting.
   - Sol- eller sykkelbriller, mest for å beskytte mot sand.
   - Ekstra ladekabler, da det viser seg umulig å finne noe kvalitet i ørkenen.
-- Ting å legge igjen
 - Vi bodde hos Atayek Hamad, og har aldri opplevd så god service før. Finn ham her: https://bedouinfamilycamp.com/
 
 {{< /details >}}
+
+> Oppdatering: Vi fant ut at noen andre klatere vi møtte på skrev et reisebrev fra samme sted og samme tid - og de møtte noen av vår gjeng på en rute. Se [The Star of Abu Judaidah - Rock Around The World](https://rockaroundtheworld.co.uk/2026/01/09/the-star-of-abu-judaidah/).
+
+
 
 Desorientert og trøtt våkner jeg opp uten å vite hvor jeg er eller hva som skjer - en melodisk symfoni utspiller seg rett utenfor teltet: et vers med gjentatte "Allah Akbar", iblandet ivrig bjeffing og infernalsk hanegal. Beduinteltets innestengte hete gir meg et nyss om at det er langt på dag - og bønneropet bekrefter at klokken har passert middag.  Vi befinner oss i Wadi Rum, en ørkendal knappe seks mil øst fra Aqaba, Jordans eneste kystby, tett på grensen til Saudi-Arabia - og godt trøtte etter ankomsten i natt drøyer vi denne morgenen. Desverre ligger de teltaktige hyttene knappe 100m fra moskeen, og vi innser at døgnrytmen fra nå av er diktert av bønneropets syklus.
 
@@ -121,7 +124,49 @@ Det var heldig, da fikk sjansen til å prøve meg på «Au Gres du Vent», en «
 
 Et par dager senere toppet jeg, Synne, og Jon «Mendian Gora», 4 t.l. med sammenhengende sprekklatring fra kamin- til fingerriss. Det mest eventyrlige med denne dagen var dog ikke klatringen, men den noe eventyrlige utmarsjen. Beskrivelsen vi hadde fått fra førstebestigeren var «very obvious, if in doubt, go left» - imidlertid viste det seg at flere steder skulle vi ha tatt til høyre. Vi konkluderte med at spanskmenn kanskje har litt problemer med høyre og venstre, som også kan forklare kjørevanene på spanske veier.
 
+{{< gallery
+    match="images/10[5-6]-*"
+    sortOrder="asc"
+    rowHeight="150"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
+
 Som de ekte turistene vi var måtte vi selvfølgelig også få gjort de obligatoriske opplevelsene i Jordan. Vi sto på sand-snowboard, red kameler, badet i Dødehavet, og fikk sett Petra, et av verdens syv underverker. Dette utrolige stedet fascinerte oss dypt - ikke bare for arkitekturen, terrassene, og detaljene i de skulpturerte fasadene - fordi området var fullt av tilsynelatende klatrebare sprekker. Vår undring ble dog aldri satt ut i livet, da utstyret var etterlatt og et knippe morske politimenn fulgte nøye med på oss hver gang vi bevegde oss for nære sprekkene. Det må bli en annen gang.
+
+
+
+{{< gallery
+    match="images/10[7-9]-*"
+    sortOrder="asc"
+    rowHeight="150"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
+
+
+
+## Alle bilder
+
+{{< gallery
+    match="images/*"
+    sortOrder="asc"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="hide"
+>}}
+
 
 
 
@@ -139,23 +184,3 @@ Dag   | Rute                         | Partnere
 5.1   | Troubadour                   | Vilde & Gunnhild
 6.1   | Au Gres du Vent              | Vilde
 8.1   | Mendian Gora                 | Synne og Jon
-
-
-
-« » 
-
-
-## Alle bilder
-
-{{< gallery
-    match="images/*"
-    sortOrder="asc"
-    thumbnailResizeOptions="600x600 q90 Lanczos"
-    showExif=true
-    previewType="blur"
-    embedPreview=true
-    loadJQuery=true
-    lastRow="hide"
->}}
-
-Edit: Vi fant ut at noen andre klatere vi møtte på skrev et reisebrev fra samme sted og samme tid - og de møtte noen av vår gjeng på en rute. Se [The Star of Abu Judaidah - Rock Around The World](https://rockaroundtheworld.co.uk/2026/01/09/the-star-of-abu-judaidah/).
