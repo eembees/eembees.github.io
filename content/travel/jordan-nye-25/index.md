@@ -103,8 +103,30 @@ Johannes fikk første 3-tl. blokk, og jeg fikk lov til å følge ham opp cruxet 
 Idet vi kaster tauet ser vi «Vestlandstaulaget»  Emil, Noralf og Synne gå i gang med 7. t.l., til stor underholdning for oss. Med god tid spiser vi lunsj mens vi ser Emil jobbe seg oppover, og kommer raskt ned resten av ruta. Johannes går over til ørkecampen for å vente på Atayek mens jeg legger meg bak en stein og spiller munnspill mens jeg venter på Vestlendingene. Vel tilbake i Wadi Rum er menyen som før - kylling og ris.  
 
 
+{{< gallery
+    match="images/10[2-3]-*"
+    sortOrder="asc"
+    rowHeight="150"
+    thumbnailResizeOptions="600x600 q90 Lanczos"
+    showExif=true
+    previewType="blur"
+    embedPreview=true
+    loadJQuery=true
+    lastRow="center"
+>}}
 
-## Oversikt
+## Avslutningen - de siste dagene i Wadi Rum
+Etter ankomsten tilbake i Wadi Rum ble det lagt inn nok en hviledag. I tillegg ble vi overrasket med en sjelden velsignelse i ørkenen - regnvær! Derfor ble klatringen naturlig nok omrokkert, og fokuset dreiet seg derfor mer mot fine taulengder, om enn kortere ruter. Vi fikk gått «Troubadour», en perle av et håndjams-dieder, og følte vi begynte å kunne stole på sikringene våre litt mer. 
+Det var heldig, da fikk sjansen til å prøve meg på «Au Gres du Vent», en «fremtidig klassiker» i området. Etter en litt rotete første taulengde blir man belønnet med et hardt og lett overhengende håndriss, så perfekt at man skulle tro man var i Indian Creek eller Bohus. Med et enkelt fall gikk den _nesten_ i fri, og jeg anbefalte den til alle som ville høre. Samme dag hadde Gunnhild, Noralf, og Emil gått «Lionheart,» den siste store klassikeren i Wadi Rum, og en skikkelig fjelltur. 
+
+Et par dager senere toppet jeg, Synne, og Jon «Mendian Gora», 4 t.l. med sammenhengende sprekklatring fra kamin- til fingerriss. Det mest eventyrlige med denne dagen var dog ikke klatringen, men den noe eventyrlige utmarsjen. Beskrivelsen vi hadde fått fra førstebestigeren var «very obvious, if in doubt, go left» - imidlertid viste det seg at flere steder skulle vi ha tatt til høyre. Vi konkluderte med at spanskmenn kanskje har litt problemer med høyre og venstre, som også kan forklare kjørevanene på spanske veier.
+
+Som de ekte turistene vi var måtte vi selvfølgelig også få gjort de obligatoriske opplevelsene i Jordan. Vi sto på sand-snowboard, red kameler, badet i Dødehavet, og fikk sett Petra, et av verdens syv underverker. Dette utrolige stedet fascinerte oss dypt - ikke bare for arkitekturen, terrassene, og detaljene i de skulpturerte fasadene - fordi området var fullt av tilsynelatende klatrebare sprekker. Vår undring ble dog aldri satt ut i livet, da utstyret var etterlatt og et knippe morske politimenn fulgte nøye med på oss hver gang vi bevegde oss for nære sprekkene. Det må bli en annen gang.
+
+
+
+
+## Ruteoversikt
 
 Dag   | Rute                         | Partnere
 ------|------------------------------|-----------------
@@ -135,3 +157,5 @@ Dag   | Rute                         | Partnere
     loadJQuery=true
     lastRow="hide"
 >}}
+
+Edit: Vi fant ut at noen andre klatere vi møtte på skrev et reisebrev fra samme sted og samme tid - og de møtte noen av vår gjeng på en rute. Se [The Star of Abu Judaidah - Rock Around The World](https://rockaroundtheworld.co.uk/2026/01/09/the-star-of-abu-judaidah/).
