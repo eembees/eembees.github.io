@@ -1,5 +1,5 @@
 baseURL = 'https://mags.nu/'
-timeout="60s"
+timeout="300s"
 theme = ["hugo-bearcub", "hugo-shortcode-gallery"]
 
 [outputs]
