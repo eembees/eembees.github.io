@@ -35,3 +35,7 @@ Da vi sto ved den siste bratte seksjonen rullet uværet inn, og vi fikk sikt red
 
 >}}
 
+
+
+[Link til Peakbook-artikkel](https://peakbook.org/tour/615727/Sydvesteggen+p%C3%A5+Galdh%C3%B8piggen+%28Vinter%29.html).
+
