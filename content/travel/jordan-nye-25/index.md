@@ -1,5 +1,5 @@
 +++
-title = 'Wadi Rum - Nyttårsturen 25-26 🇯🇴'
+title = 'Wadi Rum - Nyttårsturen 25-26 🇯🇴 (🇳🇴)'
 date = 2026-01-12T10:56:44+01:00
 draft = false
 listed = true

@@ -1,5 +1,5 @@
 +++
-title = 'Sydvesteggen på Galdhøpiggen - påsken 2026'
+title = 'Sydvesteggen på Galdhøpiggen - påsken 2026 (🇳🇴)'
 date = 2026-03-31T00:00:00+02:00
 draft = false
 description = 'Vinterlig og eventyrlig klatring i Jotunheimen'
@@ -31,7 +31,7 @@ Da vi sto ved den siste bratte seksjonen rullet uværet inn, og vi fikk sikt red
     previewType="blur"
     embedPreview=true
     loadJQuery=true
-    lastRow="hide"
+    lastRow="center"
 
 >}}
 
