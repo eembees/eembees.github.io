@@ -115,3 +115,62 @@ My main qualm with this is that for some reason none of the experimenters realiz
 [^1]: In this case, I think it's prudent to name Alice part of the experimenters.
 [^2]: Note to self, Kevin Simler wrote something about this here: [Personality: The Body in Society | Melting Asphalt](https://meltingasphalt.com/personality-the-body-in-society/)
 
+
+
+
+
+
+
+# Work Book Club - The Player of Games (Culture book II)
+
+
+
+This was a very interesting read. SciFi can be really fun and thoughtful and in this case I feel we hit a good balance of both. 
+
+My notes are my own and very SoC this time. 
+
+Overall I think this book is a layered response to the trope that _"men used to go to war"_. It was written in 88, by a baby boomer - and probably the author used to hear the older generation talk about going to war - but instead just always going to parties, having casual sex, and being in an overall "safe" society that must have seemed like utopia compared to growing up in the 1920s and 30s.  
+
+
+
+## 1 - Culture Plate 
+
+I can understand this guy really well. The Culture, as a post-scarcity society has a very utopian themed of the sort, with the happy hedonism that we see in so many sci fis. I can clearly relate to Gurgeh feeling a lot like hes just going through the motions, even if he is the best of the best and so on. 
+
+Oh but the cheating? Mawhrin Skel is really a sneaky guy - recognizing that Gurgeh is _bored_ beyond anything reasonable, and providing him some excitement. There is probably a theme here - that man needs struggles to develop and go on. This is probably why the games are so important to Jurjeh - he needs a challenge. 
+
+I like that they have _terminals_ that are much like the phones we have today, but I am happy to see that people are not _glued_ to them like in WallE.
+
+## 2 - Imperium
+
+Now Gurgeh is going on a long training trip before he needs to play games against a potentially mortal enemy of the Culture. For some reason I am wondering if this is going to be like Enders Game?  I think it predates this novel by some years. He ends up being in a "fake battle" that turns into a real battle, wonder if this could be the same?
+
+The most fascinating part, is that Gurgeh is a hero before even being a hero. There is obviously subtext here - Gurgeh doesn't have the full picture of what he's been sold as, or what the Imperium has to offer. When talking to the corrupt (or corrupted) Za, it becomes obvious that he was just brought in to play the game and not introduced to other aspects of the society he is playing against. 
+
+
+
+## 3 - Machina Ex Machina
+
+Ok this title makes me like 95% sure that the Fleme drone is Marwhin Skel. 
+
+The title is a play on "Deus Ex Machina" - but in the Culture there are no Gods, and only the Imperium has Gods. Gurgeh is losing himself in the game, and they say he plays more like a machine. 
+
+Machina Ex Machina also refers to the fact that the Culture has introduced Minds - benevolent hyperspace-enabled beings / computers that control all, and have eliminated the need for Gods. And this in itself is reflected in the Imperium/Culture conflict. The Imperium is _us_, humanity's barbaric, 1940s might-is-right way of living, with all the vices of hierarchical power structures, a God that arches over us all and hierarchies that people live up and down to. But the Culture is also _us_ - with no clear requirements or things to do, since we have proceeded from scarcity. 
+
+It is cool to see the fact that Gurgeh needs to lose part of his _Culture_-way of being to fight Emperor Nicosar, and become more ruthless. 
+
+The last symbolism I find funny is the Fire Planet. The ever-lasting cycle of full destruction of the habitat plays on Plato's Social Cycles (Aristocracy, Timocracy/Militocracy, Oligarchy, Democracy, Tyranny). I love it! 
+
+## 4 - The Passed Pawn
+
+What a title to a section. Awesome. Brings so many questions, most of all, who is the passed pawn? Is it the Culture? Or is it Gurgeh? There are so many things to do with just this title:
+
+1. The first layer - Gurgeh is the player, and he is the passed pawn who now has no challenges ahead since he has completed his ultimate game. This is why he sleeps the whole way home - he is done.
+2. The second -  relation back to Gurgehs reflection at the end of the game. When he tells Nicosar that he is sorry the game is over, since it was the best game he ever played.
+3. The third - Gurgeh was the player, but also Contact's (and Marwhin Skels) Pawn. He may have thought of himself as brilliant but he has been continuously played by Marwhin Skel
+
+
+
+## Rating
+
+4/5 for entertainment, not for depth. Reminds me a lot of Dune, Enders Game, and the short story "The Evitable Conflict" in Asimovs *I, Robot*. 
