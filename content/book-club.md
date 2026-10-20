@@ -121,15 +121,13 @@ My main qualm with this is that for some reason none of the experimenters realiz
 
 
 
-# Work Book Club - The Player of Games (Culture book II)
+# Work Book Club - **The Player of Games** (Culture book II)
 
-
+> What, anyway, was he to say? That intelligence could surpass and excel the blind force of evolution, with its emphasis on mutation, struggle and death? That conscious cooperation was more efficient than feral competition? That Azad could be so much more than a mere battle, if it was used to articulate, to communicate, to define…? He'd done all that, said all that, and said it better than he ever could now.
 
 This was a very interesting read. SciFi can be really fun and thoughtful and in this case I feel we hit a good balance of both. 
 
-My notes are my own and very SoC this time. 
-
-Overall I think this book is a layered response to the trope that _"men used to go to war"_. It was written in 88, by a baby boomer - and probably the author used to hear the older generation talk about going to war - but instead just always going to parties, having casual sex, and being in an overall "safe" society that must have seemed like utopia compared to growing up in the 1920s and 30s.  
+Context: Written in '88, by a baby boomer living in a seemingly "safe" society that had utopia-like conditions compared to growing up in the 1920s and 30s.  
 
 
 
@@ -173,4 +171,5 @@ What a title to a section. Awesome. Brings so many questions, most of all, who i
 
 ## Rating
 
-4/5 for entertainment, not for depth. Reminds me a lot of Dune, Enders Game, and the short story "The Evitable Conflict" in Asimovs *I, Robot*. 
+4/5 for entertainment, not for that much depth. Reminds me a lot of Dune, Enders Game, and the short story "The Evitable Conflict" in Asimovs *I, Robot*. BUT very fun read! 
+
